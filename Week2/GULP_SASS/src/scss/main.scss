@@ -1,0 +1,15 @@
+$red: black;
+ 
+body {
+    color: $red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 2em;
+    filter: blur(10px);
+}
+h1 {
+    color: red;
+}
+p {
+    color: hotpink;
+}

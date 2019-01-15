@@ -1,0 +1,190 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    width: 100%;
+
+}
+/*------------------HEADER SECTION HERE-----------*/
+header {
+    position: relative;
+    background-position: center;
+    background-image: url('graphics/banner.jpg');
+    background-size: cover;
+    height: 550px;
+    
+}
+
+ 
+.nav-bar {
+    background-color: white;
+    height: 38px;
+    text-align: center;
+    
+
+
+}
+.nav-bar ul {
+    list-style: none;
+
+
+}
+.nav-bar ul li {
+    display: inline-block;
+    padding: 0px 15px;
+    
+
+    
+}
+header h1 {
+    color: white;
+    font-weight: 900;
+    line-height: 30px;
+
+}
+.b {
+    color: #FFE964;
+    
+
+}
+.i {
+    color: #FF523d;
+    
+
+}
+.k {
+    color: #223C88;
+
+}
+header div {
+    position: relative;
+    top: 85px;
+    left: 290px;
+    font-size: 1.7em;
+    border-bottom: 5px solid white;
+    width: 23%;
+    padding-right: 40px;
+
+    
+    
+    
+}
+
+/*---------------------MISSION SECTION HERE----------*/
+.mission {
+    background-color: #FFE964;
+    height: 420px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.mission h2 {
+    position: relative;
+    font-size: 3em;
+    font-weight: 900;
+    margin: 0px;
+    width: 60%;
+    margin: 0 auto;
+    top: 25%;
+    
+
+}
+.mission p {
+    position: relative;
+    font-size: 1.3em;
+    width: 58%;
+    margin: 0 auto;
+    top: 35%;
+    padding-top: 10px;
+    line-height: 30px;
+    
+
+}
+
+/*------------------ABOUT US SECTION HERE-----------*/
+
+.about {
+    background-color: #FFFFFF;
+    height: 550px;
+    padding: 60px 60px 285px 285px;
+          
+}
+.about h2 {
+    font-weight: 900;
+    font-size: 3em;
+    width: 60%;
+}
+.about p {
+    width: 75%;
+    font-size: 1.3em;
+    line-height: 30px;
+}
+/*------------------TEAM SECTION HERE--------------*/
+
+.team {
+    background-color: #FF523d;
+    color: white;
+    height: 1850px;
+}
+.team h2 {
+    font-weight: 900;   
+    font-size: 3em;
+    width: 60%;
+    padding-left: 285px;
+    padding-top: 60px;
+
+}
+.team h4 {
+    font-weight: 700;
+    font-size: 1.55em;
+    margin-bottom: 0px;
+    margin-top: 22px;
+}
+.team p {
+    line-height: 15px; 
+    font-size: 1.3em;
+    padding-bottom: 35px;
+    margin-top: 5px;
+    margin-bottom: 35px;
+
+}
+.team img {
+    border-radius: 50%;
+    width: 250px;           
+}
+.team div {
+    margin: 0 auto;
+    text-align: center; 
+       
+}
+/*------------------FOOTER SECTION HERE-----------*/
+
+footer {
+    background-color: #223C88;
+    color: white;
+    height: 500px;
+    padding: 60px 60px 285px 285px;
+    
+
+}
+footer h2{
+    font-weight: 900;
+    margin: 0;
+    font-size: 3em;
+
+} 
+footer h5 {
+    font-weight: 700;
+    font-size: 1.4em;
+    margin-bottom: 4px;
+    margin-top: 17px;
+
+}
+footer p {
+    font-size: 1.2em;
+    margin: 0;
+    line-height: 15px;
+}

@@ -1,0 +1,11 @@
+div {
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width: 400px;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+}

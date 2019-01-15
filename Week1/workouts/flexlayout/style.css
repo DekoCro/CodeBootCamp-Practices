@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 70%;
+    height: 100vh;
+    
+}
+header {
+    background-color: darkblue;
+}
+header h1 {
+    padding: 0 1em;
+    font-size: 3em;
+    color: yellow;
+}
+section {
+    display: flex;
+    flex-direction: row;
+    height: 60vh;
+}
+aside {
+    flex-grow: 1;
+    background-color: yellow;
+    padding: 1em 3em;
+}
+aside {
+    font-size: 1.5em;
+}
+main {
+    flex-grow: 2;
+    background-color: yellowgreen;
+    padding: 1em 3em;
+}
+main h2 {
+    font-size: 2em;
+}
+footer {
+    background-color: skyblue;
+    padding: 0 1em;
+    color: yellow;
+    font-size: 2em;
+    margin: 0;
+}

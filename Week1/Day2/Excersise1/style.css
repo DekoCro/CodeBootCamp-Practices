@@ -1,0 +1,45 @@
+body {
+    background-color: #444444;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    font-family: "Trebuchet MS", sans-serif;
+}
+.cro {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+    opacity: 0.5;
+}
+.center ol {
+    width: 10%;
+    display: block;
+    margin: 0 auto;
+}
+
+.cro:hover {
+    opacity: 1;
+}
+
+.link{
+    color: rgb(255, 245, 253);
+    opacity: 0.5;
+}
+.link:hover {
+    color: white;
+}
+.middle {
+    color: blue;
+    background-color: white;
+}
+footer {
+    background-color: black;
+    border: 1px solid white;
+    width: 50%;
+    margin: 40px auto;
+}
+
+button {
+    font-size: 30px;
+}
