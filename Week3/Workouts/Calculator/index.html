@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Simple Calculator</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+        <link href="https://fonts.googleapis.com/css?family=Major+Mono+Display" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+    </head>
+    <body>
+
+        <div class="calculator">
+            <h1>Best fucking<br>calculator ever!</h1>
+            <output type="text" class="calculator__output" id="output" for="calculator"></output>
+            <input type="text" class="calculator__input" id="input" value=""/>
+            <div class="commands">
+                <div class="top">
+                   <section class="row">
+                        <button class="calculator__button nums"> 1 </button>
+                        <button class="calculator__button nums"> 2 </button>
+                        <button class="calculator__button nums"> 3 </button>
+                        <button class="calculator__button" id="btn-plus"> &plus; </button>
+                   </section>
+                    <section class="row">
+                        <button class="calculator__button nums"> 4 </button>
+                        <button class="calculator__button nums"> 5 </button>
+                        <button class="calculator__button nums"> 6 </button>
+                        <button class="calculator__button" id="btn-min"> &minus; </button>
+                    </section>
+                    <section class="row">
+                        <button class="calculator__button nums"> 7 </button>
+                        <button class="calculator__button nums"> 8 </button>
+                        <button class="calculator__button nums"> 9 </button>
+                        <button class="calculator__button" id="btn-mul"> &times; </button>
+                    </section>
+                </div>
+                <div class="bottom">
+                    <button class="calculator__button nums"> 0 </button>
+                    <button class="calculator__button" id="btn-clear"> C </button>
+                    <button class="calculator__button" id="btn-div"> &divide; </button>
+                    <button class="calculator__button" id="btn-calc"> = </button>
+                </div>
+
+            </div>
+        </div>
+        
+        <script src="script.js"></script>
+    </body>
+</html>
