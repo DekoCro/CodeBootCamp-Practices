@@ -49,7 +49,3 @@ aside {
 .remove {
     color: red;
 }
-#total {
-    display: flex;
-    flex-direction: row;
-}

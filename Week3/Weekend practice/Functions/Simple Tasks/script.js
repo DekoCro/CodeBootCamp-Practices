@@ -14,13 +14,13 @@ alert('You are ' + age + ' years old.');
 /* task2
 The current exchange rate from czech crownd to euro is 25.695. Get a value from the user in euros and output equivalent value in czech crownds. Ruond the result to whole crownds using the Math.round function
 */
-/* ----------task 2 solution----------
+ ----------task 2 solution----------;
 let euro = parseInt(prompt("How much euro's would you like to exchange?"));
 let crown = 25.696;
 let total = euro * crown;
 let roundedNum = Math.round(total);
 alert("Value in czech crown is: " + roundedNum);
-*/
+
 
 /* task 3
 The function Math.random output a random floating point number between 0 and 1. Figure out how to use this function to draw whole numbers from 0 to 5.
