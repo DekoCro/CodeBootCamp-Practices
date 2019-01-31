@@ -53,7 +53,7 @@ const array = [{
 }];
 
 
-let aaa = () => {
+/*let aaa = () => {
     let newName = document.querySelector("#name").value;
     let newAuthor = document.querySelector('#author').value;
     let newYear = document.querySelector('#year').value;
@@ -76,7 +76,7 @@ let aaa = () => {
     document.querySelector("#pages").value = "";
     document.querySelector("#canIBorrow").value = "";
     document.querySelector("#avaliable").value = "";
-};
+};*/
 
 document.addEventListener('DOMContentLoaded', () => {
     for(let item of listOfBooks) {
