@@ -52,7 +52,7 @@ class Pacman {
           case 'right':
           if(this.xPos < this.field.width -1){
           this.xPos++;
-          }
+         }
           break;
           case 'left':
           if (this.xPos > 0){
@@ -76,9 +76,9 @@ class Pacman {
   
   
     render () {
-      this.field = document.createElement('div');
-      this.field.className = `pac ${this.gender}-active-${this.skin}`
-      this.field.innerHTML = (`${this.name}: 0`)
+      this.element = document.createElement('div');
+      this.element.className = `pac ${this.gender}-active-${this.skin}`
+      this.element.innerHTML = (`${this.name}: 0`)
       
       document.addEventListener('keydown', e => {
         switch(e.keyCode) {
@@ -97,7 +97,7 @@ class Pacman {
         }
       });
   
-      return this.field;
+      return this.element;
   
     }
 }

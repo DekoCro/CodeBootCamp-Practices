@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background-color: #ffffff;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160' viewBox='0 0 200 200'%3E%3Cpolygon fill='%23DCEFFA' points='100 0 0 100 100 100 100 200 200 100 200 0'/%3E%3C/svg%3E");
+    color: orange;
+}
+section {
+    display: flex;
+    flex-direction: row;
+}
+div {
+    width: 6em;
+    height: 6em;
+    margin: 1em;
+    background-size: contain;
+}
+.dice {
+    background-image: url("img/side1.png");
+    
+}
+.side-1 {
+    background-image: url("img/side1.png");
+}
+.side-2 {
+    background-image: url("img/side2.png");
+}
+.side-3 {
+    background-image: url("img/side3.png");
+}
+.side-4 {
+    background-image: url("img/side4.png");
+}
+.side-5 {
+    background-image: url("img/side5.png");
+}
+.side-6 {
+    background-image: url("img/side6.png");
+}
