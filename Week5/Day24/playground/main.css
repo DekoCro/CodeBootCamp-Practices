@@ -1,0 +1,46 @@
+form {
+    display: flex;
+    flex-direction: column;
+    background-image: url('img/star-wars-movie-posters.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+}
+.radio {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.radio div {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1em;
+}
+.btn {
+    width: 10vw;
+    align-self: center;
+    margin-top: 2em;
+    font-size: 2em;
+}
+div {
+    background-color: rgba(0,0,0,0.5);
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+select , textarea {
+    width: 15vw;
+}
+main {
+    margin: 1em;
+}
