@@ -1,5 +1,5 @@
 <?php
-
+/*
 $movie_names = [
     'tt0468569' => 'Solo',
     'tt0050083' => 'Phantom Menace',
@@ -29,10 +29,62 @@ $movie_names = [
   $movies = [];
   
 
+foreach($movie_names as $index => $movie) {
+  $movies[] = [
+    'name' => $movie,
+    'rating' => $movie_ratings[$index]
+  ];
+}
+
 
   var_dump($movies);
 
+  */
 
+  function do_something_risky() {
+    // pretend to do the risky stuff
+   
+    // return new messages
+    return [
+      'error' => [
+        'I knew this would happen!',
+        'This always happens.'
+      ],
+      'warning' => [
+        'You should fix this before proceeding'
+      ],
+      'success' => []
+    ];
+  }
+   
+  // let's try it
+  $new_messages = do_something_risky();
+
+  $messages = [
+    'error' => [
+      'Something went wrong',
+      'Something went REALLY wrong',
+      'There is no end to this!'
+    ],
+    'warning' => [
+      'This is your first warning',
+      'This is your final warning'
+    ],
+    'success' => [
+      'Finally, something was successful.'
+    ]
+  ];
+
+
+
+$result_messages = [];
+foreach ($messages as $type => $messages_type) {
+    $messages[$type] = array_merge($messages_type, $new_messages[$type]);
+}
+
+
+
+var_dump($messages);
 
   ?>
 
@@ -46,7 +98,17 @@ $movie_names = [
       <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
   </head>
   <body>
-      
+         <div class="messages">
+
+          <?php foreach($messages as $type => $message_type) : ?>
+
+            <?php foreach($message_type as $message) : ?>
+
+            <div class="message <?= $type ?>"><?= $message ?></div>
+
+            <?php endforeach; ?>
+          <?php endforeach; ?>
+         </div>
 
   </body>
   </html>

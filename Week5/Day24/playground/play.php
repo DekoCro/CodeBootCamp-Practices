@@ -65,7 +65,7 @@ function select_character($name, array $values, $selected = null)
 
 <main>
     <div class="column">
-        <label for="">CHOOSE FAVOURITE STAR WARS MOVIE(prequel/original triology):</label>
+        <label for="">CHOOSE FAVOURITE STAR WARS MOVIE:</label>
         <?= select_character('movie', [
             'ep I' => 'Phantom Menace',
             'ep II' => 'Attack of the Clones',

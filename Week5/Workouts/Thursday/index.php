@@ -89,7 +89,7 @@ go_to_moria($party);
 
 function go_to_falls_of_rauros(&$party)
 {
-    $party = arrray_merge($party,
+    $party = array_merge($party,
     array_fill(0, 1000, 'Orc'));
 
     unset($party['boromir']);
@@ -105,11 +105,9 @@ function break_fellowship(&$party)
     $mordor_party = [$party['frodo'], $party['sam'], $party['ring']];
 
     $hungry_party = [];
-    function array_diff_key($party, $mordor_party, $hungry_party)
-    {
-        return $hungry_party;
-    };
+    $hungry_party = array_diff_key($party, $mordor_party, $hungry_party);
 
+    return $hungry_party;
 }
 
 break_fellowship($party);
