@@ -1,0 +1,6 @@
+{
+    "name": "dekolipotic/composer",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
