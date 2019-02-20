@@ -12,5 +12,6 @@
 
     <?= $content ?>
     
+    
 </body>
 </html>
