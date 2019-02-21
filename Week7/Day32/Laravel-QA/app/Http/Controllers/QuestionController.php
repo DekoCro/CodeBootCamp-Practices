@@ -3,11 +3,13 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use DB;
+use App\Question;
+use App\Answer;
+
 
 class QuestionController extends Controller
 {
-    public function index()
+    /*public function index()
     {   
         // select all the rows in the questions table and put the results in a new variable
         $all_questions = DB::table('questions')->get();
@@ -39,5 +41,45 @@ class QuestionController extends Controller
         dd($all_answers);
 
         return 'This is a detail of a question';
+    }*/
+
+    public function index()
+    {
+        $all_questions = Question::all();
+
+        //dd($all_questions);
+        
+        $all_questions_ordered = Question::latest()->get();
+
+        $view = view('questions/index');
+        return $view;
     }
+
+    public function show()
+    {
+        $question = Question::findOrFail(1);
+
+        //dd($question);
+
+        $answer_to_question_one = Answer::where('question_id', 1)->get();
+        // OR THIS WAY
+        $answer_to_question_one = $question->answer()->get();
+
+
+        $all_answers = Answer::where("question_id", 1)->oldest()->get();
+
+        dd($answer_to_question_one);
+    }
+
+    /* or shorter way 
+
+    public function show(Question $question)
+    {
+        $question = Question::findOrFail(1);
+
+        $answers_to_question = $question->answers;
+
+        $all_answers = Answer::all();
+    }*/
+
 }
