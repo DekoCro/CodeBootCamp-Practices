@@ -48,7 +48,7 @@ class QuestionController extends Controller
         $all_questions = Question::all();
 
         //dd($all_questions);
-        
+
         $all_questions_ordered = Question::latest()->get();
 
         $view = view('questions/index');
@@ -68,7 +68,10 @@ class QuestionController extends Controller
 
         $all_answers = Answer::where("question_id", 1)->oldest()->get();
 
-        dd($answer_to_question_one);
+        //dd($answer_to_question_one);
+
+        $view = view('/questions/show');
+        return $view;
     }
 
     /* or shorter way 
