@@ -16,6 +16,17 @@ Route::get('/', function () {
 });
 
 Route::get('/questions' , 'QuestionController@index');
-Route::get('/questions/1' , 'QuestionController@show');
+Route::get('/questions/{id}' , 'QuestionController@show')->name('question.id');
 Route::get('/categories' , 'CategoryController@index');
+//Task 9. morning workout day 35
+Route::get('/answers/{id}' , 'AnswerController@show')->name('answer.id');
+//Task 15. morning workout day 35
+Route::post('/answers/1' , 'AnswerController@vote');
 
+Route::get('/questions/create' , 'QuestionController@create')->name('question.create');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Route::post('/questions/{id}' , 'AnswerController@store')->name('answer.store')->middleware('auth');;

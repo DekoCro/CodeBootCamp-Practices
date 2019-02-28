@@ -11,10 +11,11 @@
 <section id="questions">
     <div class="container">
 
+        @foreach($all_questions_ordered as $question)
         <div class="question">
             <div class="question-left">
                 <div class="question-stat">
-                    <span>3</span>
+                <span>{{ $question->answer->count() }}</span>
                     <label>responses</label>
                 </div>
                 <div class="question-stat">
@@ -24,14 +25,18 @@
             </div>
             <div class="question-right">
                 <div class="question-name">
-                    <a href="#">SceneKit Swift - just play dae scene? Just getting white screen?</a>
+                    <a href="{{ route('question.id' , /*['id' => $question->id ]  or if there is only one argument then witouth array*/ $question->id ) }}">{{ $question->title }}</a>
                 </div>
                 <div class="question-info">
-                    asked at 2017-03-03 14:23:22 by <a href="">slavo</a>
+                    asked at {{ $question->created_at }} by <a href="">slavo</a>
                 </div>
             </div>
         </div>
+        @endforeach
+
     </div>
 </section>
+
+
 
 @endsection

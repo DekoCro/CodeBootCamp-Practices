@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>AJAX</title>
+</head>
+<body>
+    <select id="messages">
+
+    </select>
+
+    
+    <script>
+    /**
+        method gets a post
+        url redirects us
+    **/
+    const ajax = (method, url, data, callback) => {
+
+        // create object that represents the AJAX request
+        let ajax = new XMLHttpRequest();
+
+        // open the connection
+        ajax.open(method, url);
+
+        ajax.onreadystatechange = () => {
+            if(ajax.readyState == 4) { // 4 == request returned with a response
+            //or this 
+            // ajax.addEventListener('load', function() {
+            // });
+            // call the function that is in callback variable with the ajax object as argument below
+            (callback)(ajax);
+            }
+        }
+        let queryString = Object.keys(data).map((key) => {
+            return encodeURIComponent(key) + '=' + encodeURIComponent(data[key])
+            }).join('&');   
+        // actually send the request(with the query string)
+        ajax.send(queryString);
+    }
+    
+
+    ajax('GET', 'endpoint.php', {}, (ajax) => {
+        //do something
+        console.log('The request is back!', ajax);
+    });
+
+    concole.log('This happens right after the request was sent')
+
+    ajax('get', 'https://classes.codingbootcamp.cz/assets/classes/602/guardian.php', {} , (ajax) => {
+        let data = JSON.parse(ajax.responseText);
+
+        let html = '';
+
+        document.getElementById('messages').innerHTML = ""
+    });
+    
+    </script>
+</body>
+</html>

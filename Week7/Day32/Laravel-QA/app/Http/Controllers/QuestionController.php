@@ -12,12 +12,12 @@ class QuestionController extends Controller
     /*public function index()
     {   
         // select all the rows in the questions table and put the results in a new variable
+
         $all_questions = DB::table('questions')->get();
 
         //Change your code that selects all the answers for a question so that the results are ordered by the created_at column in ascending order.
-        $all_questions_ordered = DB::table('questions')->latest()->get();
 
-        dd($all_answers);
+        $all_questions_ordered = DB::table('questions')->latest()->get();
 
         return "This is the list of questions";
     }
@@ -47,30 +47,25 @@ class QuestionController extends Controller
     {
         $all_questions = Question::all();
 
-        //dd($all_questions);
-
         $all_questions_ordered = Question::latest()->get();
 
-        $view = view('questions/index');
+        $view = view('questions/index', compact('all_questions_ordered'));
         return $view;
     }
 
-    public function show()
+    public function show($id)
     {
-        $question = Question::findOrFail(1);
-
-        //dd($question);
+        $question = Question::findOrFail($id);
 
         $answer_to_question_one = Answer::where('question_id', 1)->get();
         // OR THIS WAY
-        $answer_to_question_one = $question->answer()->get();
-
+        //$answer_to_question_one = $question->answer()->get();
 
         $all_answers = Answer::where("question_id", 1)->oldest()->get();
 
-        //dd($answer_to_question_one);
+        $answer = new Answer;
 
-        $view = view('/questions/show');
+        $view = view('/questions/show', compact('question' , 'answer'));
         return $view;
     }
 
@@ -80,9 +75,39 @@ class QuestionController extends Controller
     {
         $question = Question::findOrFail(1);
 
-        $answers_to_question = $question->answers;
+        $answers_to_question = $question->answer;
 
         $all_answers = Answer::all();
     }*/
+
+    public function create()
+    {
+        $q = new Question;
+        // form to create (insert) a new game
+        $a = Answer::orderBy('title')->pluck('title', 'id');
+
+        return view('/questions/create', compact('q', 'a'));
+        //return view('/questions/create');
+    }
+
+    public function store(Request $request)
+    {
+        $this->validate($request, [
+            'title' => 'required'
+        ]);
+
+        $store = new Question;
+
+        $store->fill($request->only([
+            'title',
+            'text'
+        ]));
+
+        $store->save();
+
+        session()->flash('success_message' , 'Success!');
+
+        return redirect()->route('questions.create');
+    }
 
 }
