@@ -15,9 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/city' , 'CityController@show');
-Route::post('/city' , 'CityController@store');
-
-Route::get('/city/create' , 'CityController@create');
-
-Route::post('/city/{id}' , 'CityController@store');
+Route::get('/questions', 'QuestionController@index');
+Route::get('/questions/1', 'QuestionController@show');

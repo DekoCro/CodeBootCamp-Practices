@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script
+    src="http://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+    <style>
+            .articles {
+                margin: 0 auto;
+                max-width: 600px;
+            }
+            ul {
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                padding: 0.5em 0;
+                border-bottom: 1px solid silver;
+            }
+            li {
+                color: #4f4f4f;
+                text-decoration: none;
+            }
+            li:hover {
+                text-decoration: underline;
+            }
+        </style>
+</head>
+<body>
+        <h1>Fligh†s:</h1>
+        <ul id="flights">
+
+        </ul>
+
+    <script>
+        fetch('http://apis.is/flight')
+        .then(response => response.json())
+        .then(data => {
+            console.log(data);
+            data.results.map((item) => {
+                for(let id in item){
+                    document.getElementById('flights').innerHTML += `<li>${item.flightNumber}</li>`; 
+                }
+            })
+        })
+    </script>
+</body>
+</html>

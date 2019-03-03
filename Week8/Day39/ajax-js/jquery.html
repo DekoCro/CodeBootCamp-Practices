@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>AJAX with jQuery</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css">
+    <script
+    src="http://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+ 
+
+</head>
+<body>
+
+    <select id="categories"></select>
+
+    <div class="list">
+
+    </div>
+
+    <script>
+        $.ajax({
+            method: 'get', // get or post
+            url: 'https://classes.codingbootcamp.cz/assets/classes/602/guardian.php?cat=science',
+            success: function(data, status) {
+             // function to run when the response returns
+
+             document.querySelector('.list').innerHTML = "";
+             data.data.channel.item.forEach((article) => {
+                 let article_html = `<article>
+                 <h2>
+                 <a href)"${article.link}">${article.title}</a>
+                 </h2>
+                 </article>`
+             })
+             /*data.data.map((item , i) => {
+                 $('#categories').append(`<option value="${i}">${item}</option>`)
+             })*/
+            }
+        });
+    
+    </script>
+    
+</body>
+</html>

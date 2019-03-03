@@ -9,9 +9,7 @@ class CityController extends Controller
 {
     public function show()
     {
-        $cities = DB::table('city')->take(10)->get();
-
-        return view('practice.list', compact('cities'));
+       
     }
 
     public function create()
@@ -19,7 +17,7 @@ class CityController extends Controller
         return view('practice.create');
     }
 
-    public function store()
+    public function store($country_id)
     {
 
         // getting all of the data from request
@@ -28,12 +26,12 @@ class CityController extends Controller
         //$city->Population = request('Population');
 
         //or
-        $city = request()->all();
+        
 
         //$city->save();
-        dd($city);
+        
 
-        return redirect('/city');
+        
         
     }
 }
