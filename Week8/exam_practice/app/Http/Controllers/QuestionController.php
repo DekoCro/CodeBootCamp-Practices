@@ -3,24 +3,40 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use DB;
+use App\Answer;
+use App\Question;
+use App\User;
+
 
 class QuestionController extends Controller
 {
     public function index()
     {
-        $questions = DB::table('questions')->latest()->get();
-        dd($questions);
+        $questions = Question::latest()->get();
+        //dd($questions);
 
-        return 'This is sparta!';
+        return view('/questions/index', compact('questions'));
     }
 
-    public function show()
+    public function show($id)
     {
-        $question = DB::table('questions')->where('id' , '=' , 1)->first();
+        $question = Question::findOrFail($id);
 
-        $answers = DB::table('answers')->where('question_id' , '=', 1)->oldest()->get();
-        dd($answers);
-        return 'This is not sparta!';
+        $answers = Answer::where('question_id' , '=', $id)->oldest()->get();
+
+        $answers_to_question = $question->answers;
+        //dd($answers_to_question);
+
+        return view('/questions/show', compact('question' , 'answer'));
+    }
+
+    public function create()
+    {
+        return view('questions/create');
+    }
+
+    public function store()
+    {
+        $question = new Question;
     }
 }

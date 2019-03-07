@@ -1,0 +1,16 @@
+#parent{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+.question {
+    width: 30vw;
+    color: orange;
+    margin-bottom: 3em;
+    background: black;
+    text-align: center;
+    padding-bottom: 1em;
+}
