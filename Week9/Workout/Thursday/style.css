@@ -1,10 +1,10 @@
-#parent{
+/* #parent{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
     
-}
+} */
 
 .question {
     width: 30vw;

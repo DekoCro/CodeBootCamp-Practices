@@ -1,0 +1,22 @@
+#parent {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}  
+.slider {
+    background: green;
+    height: 1em;
+    border-radius: 20%;
+    margin: 1em;
+}
+.circle {
+    background: blue;
+    border-radius: 50%;
+    width: 1em;
+    height: 1em;
+    position: absolute;
+
+}

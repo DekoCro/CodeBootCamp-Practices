@@ -1,0 +1,12 @@
+.message {
+    background: orange;
+    padding: 2rem;
+    margin: 1em;
+}
+.title {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+.text {
+    line-height: 1.5rem;
+}
