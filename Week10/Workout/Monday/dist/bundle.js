@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return MyApiList; });\nclass MyApiList {\n    constructor(url, container_id) {\n        this.url = url;\n        this.container_id = container_id;\n    }\n\n    load() {\n        fetch(this.url, {\n            method: 'GET'\n        })\n        .then(response => response.json())\n        .then((data) => {\n            console.log(data)\n        });\n    }\n\n    display(data) {\n        let cont = document.querySelector(this.container);\n        console.log(cont);\n        \n    };\n}\n\n//# sourceURL=webpack:///./src/MyApiList.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return MyApiList; });\nclass MyApiList {\n    constructor(url, container_id) {\n        this.url = url;\n        this.container_id = container_id;\n    }\n\n    load() {\n        fetch(this.url, {\n            method: 'GET'\n        })\n        .then(response => response.json())\n        .then((data) => this.display(data));\n    }\n\n    display(data) {\n        let cont = document.querySelector(`#${this.container_id}`);\n        let ul = document.createElement('ul');\n        cont.appendChild(ul);\n        data.forEach(item => {\n            ul.innerHTML += `\n            <li>${item}</li>\n            `\n\n        return ul;\n        });\n        console.log(data)\n    }\n}\n\n//# sourceURL=webpack:///./src/MyApiList.js?");
 
 /***/ }),
 
@@ -106,7 +106,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _MyApiList_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./MyApiList.js */ \"./src/MyApiList.js\");\n\n\nlet List = new _MyApiList_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"]('https://classes.codingbootcamp.cz/assets/classes/api/headlines.php', 'my_container');\n\nconsole.log(List.load());\nconsole.log(List.display());\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _MyApiList_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./MyApiList.js */ \"./src/MyApiList.js\");\n\n\nlet List = new _MyApiList_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"]('https://classes.codingbootcamp.cz/assets/classes/api/headlines.php', 'my_container');\n\n\n\nList.load();\n\n\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 

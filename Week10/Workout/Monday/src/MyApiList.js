@@ -9,14 +9,20 @@ export default class MyApiList {
             method: 'GET'
         })
         .then(response => response.json())
-        .then((data) => {
-            console.log(data)
-        });
+        .then((data) => this.display(data));
     }
 
     display(data) {
-        let cont = document.querySelector(this.container);
-        console.log(cont);
-        
-    };
+        let cont = document.querySelector(`#${this.container_id}`);
+        let ul = document.createElement('ul');
+        cont.appendChild(ul);
+        data.forEach(item => {
+            ul.innerHTML += `
+            <li>${item}</li>
+            `
+
+        return ul;
+        });
+        console.log(data)
+    }
 }

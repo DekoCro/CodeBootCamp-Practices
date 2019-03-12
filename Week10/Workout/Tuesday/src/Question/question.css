@@ -1,0 +1,10 @@
+.number {
+  color: orange;
+}
+.text {
+  text-decoration: underline;
+}
+.question {
+  background: greenyellow;
+  margin: 1em;
+}
