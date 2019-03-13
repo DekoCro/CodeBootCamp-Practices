@@ -1,10 +1,21 @@
-.number {
-  color: orange;
+.correct {
+  display: none;
 }
 .text {
   text-decoration: underline;
 }
 .question {
-  background: greenyellow;
+  background: lightgoldenrodyellow;
   margin: 1em;
+  width: 40vw;
+  
+}
+.btn {
+  border: 1px solid black;
+}
+.btnYes {
+  background: green;
+}
+.btnNo {
+  background: red;
 }
