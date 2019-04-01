@@ -1,0 +1,1841 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" lang="cs-CZ">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="content-language" content="cs" />
+  <meta name="author" content="team at kinobox.cz" />
+  <meta name="copyright" content="Kinobox.cz &copy; 2018-2019 KINOBOX, s.r.o." />
+  
+  <meta http-equiv="imagetoolbar" content="no" />
+ 
+  <meta property="fb:page_id" content="135423823151660" />
+  <meta property="fb:admins" content="100001285673142"/>
+  <meta property="fb:app_id" content="208689769190391"/>  
+
+  <meta  name="description" content="Kinobox.cz - Filmové recenze, novinky v kinech, české filmy" />
+<meta  name="keywords" content="filmové recenze, novinky v kinech, české filmy, kinobox" />
+<meta  http-equiv="x-xrds-location" content="https://www.kinobox.cz/mojeid/xrds.xml" />
+<meta  property="og:url" content="https://www.kinobox.cz/" />
+<meta  property="og:title" content="Kinobox.cz" />
+<meta  property="og:site_name" content="Kinobox.cz" />
+<meta  property="og:description" content="Kinobox.cz - Filmové recenze, novinky v kinech, české filmy" />
+<meta  property="og:image" content="https://www.kinobox.cz/img/kinobox-share.jpg" />
+<meta  property="og:type" content="website" />
+
+  <link rel=“canonical” href="https://www.kinobox.cz/" /> 
+  <title>Filmové recenze, novinky v kinech, české filmy | Kinobox.cz</title>
+  
+  <link rel="shortcut icon" href="/favicon.ico" />
+
+  <link  rel="stylesheet" type="text/css" href="https://www.kbxmedia.cz/css/reset.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="https://www.kbxmedia.cz/css/print.css" media="print" />
+<link  rel="stylesheet" type="text/css" href="https://www.kinobox.cz/css/default.css?v=159" media="screen" />
+<link  rel="stylesheet" type="text/css" href="https://www.kbxmedia.cz/css/titulka.css?v=95" media="screen" />
+<link  rel="stylesheet" type="text/css" href="https://www.kbxmedia.cz/css/kinoboxes.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="https://www.kbxmedia.cz/css/rubrika.css?v=34" media="screen" />
+
+  <style></style>
+
+  <script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/jquery-1.11.1.min.js" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/cute.js?v=7" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/kbx.js?v=46" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/cute-menu.js?v=1" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/cute-suggest.js?v=19" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/cute-hoverbox.js?v=11" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/window.js?v=1" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/cpex-skin.js" charset="utf-8"></script>
+<script  type="text/javascript" src="https://cdn.cpex.cz/skin/v2/cpex-skin.js" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/anketa.js?v=1" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/hp.js?v=2" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/tabbies.js?v=4" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/orloj.js?v=1" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/slider.js" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/bleskovky.js?v=1" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/cute-scrollload.js?v=3" charset="utf-8"></script>
+<script  type="text/javascript" src="https://www.kbxmedia.cz/jsm/jqbbload.js" charset="utf-8"></script>
+
+  <script type="text/javascript"></script>
+
+  <link rel="stylesheet" type="text/css" href="/css/cookieconsent.min.css" />
+  <script type="text/javascript" src="/js/cookieconsent.min.js"></script>
+  <script type="text/javascript">window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#edeff5",text:"#838391"},button:{background:"#4b81e8"}},theme:"edgeless",content:{message:"Tento web používá k poskytování služeb, personalizaci reklam a analýze návštěvnosti soubory cookie. Používáním tohoto webu s tím souhlasíte.",dismiss:"Rozumím",link:"Více informací",href:"https://www.google.com/policies/technologies/cookies/"}})});</script>
+  <script>var trackOutboundLink = function(url) { ga('send', 'event', 'outbound', 'click', url, {'hitCallback': function () { document.location = url; } }); }</script>
+  
+  <link rel="icon" href="/favicon.ico" />
+  <link rel="search" type="application/opensearchdescription+xml" title="Kinobox" href="https://www.kinobox.cz/opensearch.xml"/>
+  <link rel="alternate" type="application/rss+xml" title="Kinobox - články" href="https://www.kinobox.cz/rss/clanky" />
+</head>
+<body id="kbx">
+
+  <div id="js_add_box">
+  </div>
+  
+  <script type="text/javascript">
+    var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"9865599"});(function(){
+    var d=document;var s=d.createElement("script"),el=d.getElementsByTagName("script")[0];
+    s.async=true;s.src=(d.location.protocol=="https:"?"https://sb":"http://b")+
+    ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el);})();
+  </script>
+  <noscript><img src="https://b.scorecardresearch.com/p?c1=2&c2=9865599&cv=2.0&cj=1" /></noscript>
+
+      <span id="background-link-placeholder" style="display: none"></span>
+    <script type="text/javascript">KBX.addBanner('skin', 'background-link-placeholder', 1);</script>
+  
+    <div id="page_top">
+      <div id="leaderboard">
+        <div id='bmone2n-19813.1.1.9'>
+  <noscript><div style='display:inline'><a href='https://go.cz.bbelements.com/please/redirect/19813/1/1/9/'><img src='https://go.cz.bbelements.com/please/showit/19813/1/1/9/?typkodu=img' style='border-width:0' alt='' /></a></div></noscript>
+</div>
+      </div>
+    </div>
+  
+    <div id="page">
+      
+      <div id="page_wrapper">
+        
+        <div id="inner_wrapper">
+          <div id="header_wrapper">
+            <div id="header">
+              <h1 id="site_logo" class="fl">
+  <a href="https://www.kinobox.cz/" title="kinobox.cz">
+    <img src="/img/kinobox_cz.png" width="200" height="70" alt="kinobox.cz" title="kinobox.cz" />  </a>
+  </h1>
+
+
+<div class="fr" id="header_right">
+  
+  <div id="search_top">
+    <form action="https://www.kinobox.cz/najdi" method="get">
+      <input type="text" name="t" value="" id="search_input" class="input suggest" autocomplete="off" placeholder="Hledejte filmy, seriály, osobnosti..." /> 
+      <input type="image" src="/img/search-icon-33.png" width="33" height="33" alt="Hledej" title="Hledej" class="sbutton" />
+      <input type="image" src="/img/search-icon-ext-33.png" width="33" height="33" alt="Hledej" title="Hledej" class="sbutton" />
+    </form>
+    <div id="search_suggestions" class="suggestions" style="display: none"><div class="list"></div><div class="more"><a href="#" id="suggest_link">Všechny výsledky</a></div></div>
+    <div class="suggest_template" style="display: none">
+      <!-- <div class="suggestion">
+        <a href="[data|url]" class="data">
+          <img src="[data|image]" class="image data" />
+          <span class="title"><span class="data">[data|name]</span> <span class="year data">[data|year]</span></span>
+        </a>
+      </div> -->
+    </div>
+  </div>
+</div>
+<div id="header_banner" class="fr tac">
+          <a style="display: none" class="highlight" href="https://www.kinobox.cz/clanky/nejctenejsi" title="NEJČTENĚJŠÍ co vás nejvíce zajímalo v uplynulém týdnu">
+      <img src="https://www.kbxmedia.cz/data/highlights/nejctenejsi-no-vas-nejvice-zajimalo-v-uplynulem-tydnu.jpg" width="342" height="96" alt="NEJČTENĚJŠÍ co vás nejvíce zajímalo v uplynulém týdnu" /></a>
+        <a style="display: none" class="highlight" href="https://www.kinobox.cz/clanky/nejctenejsi" title="NEJČTENĚJŠÍ co vás nejvíce zajímalo v uplynulém týdnu">
+      <img src="https://www.kbxmedia.cz/data/highlights/nejctenejsi-co-vas-nejvice-zajimalo-v-uplynulem-tydnu-1.jpg" width="342" height="96" alt="NEJČTENĚJŠÍ co vás nejvíce zajímalo v uplynulém týdnu" /></a>
+        <a style="display: none" class="highlight" href="https://www.kinobox.cz/diskuse" title="Nejživější diskuze">
+      <img src="https://www.kbxmedia.cz/data/highlights/nejzivejsi-diskuze.png" width="342" height="96" alt="Nejživější diskuze" /></a>
+        <a style="display: none" class="highlight" href="https://www.kinobox.cz/videa/cele-filmy-zdarma" title="Filmy zdarma!">
+      <img src="https://www.kbxmedia.cz/data/highlights/filmy-zdarma.png" width="342" height="96" alt="Filmy zdarma!" /></a>
+        <a style="display: none" class="highlight" href="https://www.kinobox.cz/hry/nejhranejsi/mesic" title="Kvízy">
+      <img src="https://www.kbxmedia.cz/data/highlights/kvizy.png" width="342" height="96" alt="Kvízy" /></a>
+        <a style="display: none" class="highlight" href="https://www.kinobox.cz/hry/nejhranejsi" title="Poznáte filmy">
+      <img src="https://www.kbxmedia.cz/data/highlights/poznate-filmy.png" width="342" height="96" alt="Poznáte filmy" /></a>
+        <a style="display: none" class="highlight" href="https://www.kinobox.cz/zebricky/nejlepsi/filmy/2018" title="Nejlepší filmy">
+      <img src="https://www.kbxmedia.cz/data/highlights/nejlepsi-filmy.png" width="342" height="96" alt="Nejlepší filmy" /></a>
+        <a style="display: none" class="highlight" href="https://www.kinobox.cz/souteze" title="Soutěže o ceny">
+      <img src="https://www.kbxmedia.cz/data/highlights/souteze-o-ceny.png" width="342" height="96" alt="Soutěže o ceny" /></a>
+        <a style="display: none" class="highlight" href="https://www.kinobox.cz/kino_program/filmove_premiery_v_kinech/praha/podle_uzivatelu" title="Nejlepší filmy kina (březen)">
+      <img src="https://www.kbxmedia.cz/data/highlights/nejlepsi-filmy-kina-brezen.png" width="342" height="96" alt="Nejlepší filmy kina (březen)" /></a>
+        <a style="display: none" class="highlight" href="https://www.kinobox.cz/tvprogram/tipy" title="Nejlepší filmy v tv">
+      <img src="https://www.kbxmedia.cz/data/highlights/nejlepsi-filmy-v-tv.png" width="342" height="96" alt="Nejlepší filmy v tv" /></a>
+        <a style="display: none" class="highlight" href="https://www.kinobox.cz/clanek/15524-petr-kolecko-rasismus-vystaveny-mostecke-realite-je-vlastne-nepraktikovatelny-a-nema-logiku" title="Most - clanek">
+      <img src="https://www.kbxmedia.cz/data/highlights/most-clanek.png" width="342" height="96" alt="Most - clanek" /></a>
+        <a style="display: none" class="highlight" href="https://www.kinobox.cz/zebricky/nejlepsi/filmy/deset-let/jen_ceske" title="Nejlepší české filmy za posledních 10 let">
+      <img src="https://www.kbxmedia.cz/data/highlights/nejlepsi-ceske-filmy-za-poslednich-10-let.png" width="342" height="96" alt="Nejlepší české filmy za posledních 10 let" /></a>
+        <a style="display: none" class="highlight" href="https://www.kinobox.cz/tvprogram/tipy/vikend" title="Nejlepší filmy o víkendu v TV">
+      <img src="https://www.kbxmedia.cz/data/highlights/nejlepsi-filmy-o-vikendu-v-tv.png" width="342" height="96" alt="Nejlepší filmy o víkendu v TV" /></a>
+      </div>
+
+<script type="text/javascript" language="JavaScript">   
+  <!--
+  var top_suggest = new cute_suggest({
+    'container_id': 'search_top',
+    'url': '/database_ajax/suggest',
+    'suggestions_width': 333,
+    'suggestions_length': 6,
+    'suggestions_list_class': 'list',
+    'select_first': false,
+    'allow_enter_submit': true,
+    'allow_empty': true,
+    'show_cb': function(r) { var link = document.getElementById('suggest_link'); var value = document.getElementById('search_input').value; link.innerHTML='Vyhledávat "'+(value.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;"))+'"'; link.href='https://www.kinobox.cz/najdi?t='+encodeURIComponent(value).replace(/%20/g, "+"); }
+  });
+  //-->
+</script>              <div class="clearBoth"></div>
+            </div>
+          </div>
+          
+            <div id="topmenu" class="single">
+  <ul class="mlevel">
+          <li class="mitem first">
+        <a href="https://www.kinobox.cz/databaze"><span class="bg_r"></span>Databáze</a>      </li>
+          <li class="mitem">
+        <a href="https://www.kinobox.cz/premiery/kino"><span class="bg_r"></span>Premiéry</a>      </li>
+          <li class="mitem">
+        <a href="https://www.kinobox.cz/clanky"><span class="bg_r"></span>Články</a>      </li>
+          <li class="mitem">
+        <a href="https://www.kinobox.cz/videa"><span class="bg_r"></span>Videa</a>      </li>
+          <li class="mitem">
+        <a href="https://www.kinobox.cz/zebricky"><span class="bg_r"></span>Žebříčky</a>      </li>
+          <li class="mitem">
+        <a href="https://www.kinobox.cz/souteze"><span class="bg_r"></span>Zábava</a>      </li>
+          <li class="mitem">
+        <a href="https://www.kinobox.cz/tvprogram"><span class="bg_r"></span>TV program</a>      </li>
+          <li class="mitem">
+        <a href="https://www.kinobox.cz/kino_program"><span class="bg_r"></span>Program kin</a>      </li>
+          <li class="mitem">
+        <a href="https://www.kinobox.cz/filmy_online"><span class="bg_r"></span>Filmy online</a>      </li>
+          <li class="mitem">
+        <a href="https://www.kinobox.cz/diskuse"><span class="bg_r"></span>Diskuse</a>      </li>
+        <li id="user_line">
+  <ul class="ml">
+      <li class="mitem first">
+      <!--<a href="https://www.kinobox.cz/login/facebook/login">-->
+      <a href="javascript:CUTE.window('https://www.kinobox.cz/login/facebook/login/window', 'login', null, 'width=480,height=360');">
+        <img class="fbbutton" src="/img/fb_16.png" width="16" height="16" alt="facebook" /><span class="bg_r"></span></a>
+    </li>
+    <li class="mitem">
+      <a class="uname" href="https://www.kinobox.cz/prihlaseni">Přihlásit<span class="bg_r"></span></a>
+    </li>
+    
+    </ul>
+</li>
+  </ul>
+      <div class="clearBoth"></div>
+</div>
+
+<script type="text/javascript" language="JavaScript">   
+  <!--
+  var mainmenu = new cute_menu({
+    container_id: "topmenu",
+    item_class: "mitem",
+    level_class: "mlevel",
+    hover_class: "hvr",
+    on_class: "on"
+  });
+  //-->
+</script>
+            
+            <div id="nejnovejsi" class="box">
+  <div class="left fl hlavni_clanek">
+                <a class="nu nadpis" href="https://www.kinobox.cz/clanek/15992-tom-a-jerry-se-vrati-do-kin-v-novem-celoveceraku">Tom a Jerry se vrátí do kin v novém celovečeráku!</a>
+      <div class="image">
+        <a href="https://www.kinobox.cz/clanek/15992-tom-a-jerry-se-vrati-do-kin-v-novem-celoveceraku">
+          <img src="https://www.kbxmedia.cz/data/clanky/460x300x1/tom-a-jerry-se-vrati-do-kin-v-novem-celoveceraku.jpg" alt="Tom a Jerry se vrátí do kin v novém celovečeráku!" title="Tom a Jerry se vrátí do kin v novém celovečeráku!" class="bl" width="460" height="300" />        </a>  
+      </div>
+            <p>Tihle dva si komplikují život již od roku 1940 a pořád ještě diváky baví. V kinech se však Tom s Jerrym objevili jen jednou (v roce 1993) a velká sláva z toho nebyla.</p>
+      </div>
+  <div class="right fr">
+          <div class="clanek">
+                <div class="image">
+          <a href="https://www.kinobox.cz/clanek/16000-recenze-paserak">
+            <img src="https://www.kbxmedia.cz/data/clanky/132x100x1/recenze-paserak.jpg" alt="Recenze: Pašerák - 88letý bývalý sex symbol Clint Eastwood zrežíroval svůj téměř čtyřicátý film a hraje v něm (opět) hlavní roli" title="Recenze: Pašerák - 88letý bývalý sex symbol Clint Eastwood zrežíroval svůj téměř čtyřicátý film a hraje v něm (opět) hlavní roli" class="bl" width="132" height="100" />          </a>
+        </div>
+        <div class="text">
+          <a class="nadpis nu" href="https://www.kinobox.cz/clanek/16000-recenze-paserak">Recenze: Pašerák - 88letý bývalý sex symbol Clint Eastwood zrežíroval svůj téměř čtyřicátý film a hraje v něm (opět) hlavní roli</a>
+                    <p>Devadesátiletý Earl (Clint Eastwood) pěstuje kytky, je bez peněz, bez domova a celé příbuzenstvo ho nenávidí. Proto se chopí příležitosti a začne pro...</p>
+        </div>
+                <div class="clearBoth"></div>
+      </div>
+          <div class="clanek">
+                <div class="image">
+          <a href="https://www.kinobox.cz/clanek/15993-chcete-byt-filmar-george-clooney-vam-poradi-kde-vzit-inspiraci">
+            <img src="https://www.kbxmedia.cz/data/clanky/132x100x1/chcete-byt-filmar-george-clooney-vam-poradi-kde-vzit-inspiraci.jpg" alt="Chcete být filmař? George Clooney vám poradí, kde vzít inspiraci!" title="Chcete být filmař? George Clooney vám poradí, kde vzít inspiraci!" class="bl" width="132" height="100" />          </a>
+        </div>
+        <div class="text">
+          <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15993-chcete-byt-filmar-george-clooney-vam-poradi-kde-vzit-inspiraci">Chcete být filmař? George Clooney vám poradí, kde vzít inspiraci!</a>
+                    <p>George Clooney patří k největším dříčům Hollywoodu a během let nám všem dokázal, že je nejen vynikající herec, ale také scenárista a režisér (a také...</p>
+        </div>
+                <div class="clearBoth"></div>
+      </div>
+          <div class="clanek">
+                <div class="image">
+          <a href="https://www.kinobox.cz/clanek/15922-netflix-natoci-100-roku-samoty">
+            <img src="https://www.kbxmedia.cz/data/clanky/132x100x1/netflix-pripravuje-serialovou-adaptaci-nezfilmovatelne-knihy-od-drzitele-nobelovy-ceny.jpg" alt="Netflix si připravuje další trumf, seriál podle &quot;nezfilmovatelné&quot; knihy slavného nobelisty" title="Netflix si připravuje další trumf, seriál podle &quot;nezfilmovatelné&quot; knihy slavného nobelisty" class="bl" width="132" height="100" />          </a>
+        </div>
+        <div class="text">
+          <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15922-netflix-natoci-100-roku-samoty">Netflix si připravuje další trumf, seriál podle "nezfilmovatelné" knihy slavného nobelisty</a>
+                    <p>Stroj na původní filmovou a seriálovou tvorbu jménem Netflix jede na plné obrátky. Po oscarovém triumfu se snímkem Roma (3 sošky) studio oznámilo, že...</p>
+        </div>
+                <div class="clearBoth"></div>
+      </div>
+          <div class="clanek">
+                <div class="image">
+          <a href="https://www.kinobox.cz/clanek/15994-top-kina-usa-captive-state-captain-marvel">
+            <img src="https://www.kbxmedia.cz/data/clanky/132x100x1/top-kina-usa-sexualni-obtezovani-v-kouzelnem-parku-cysticka-fibroza-a-captain-marvel-jako-sefka-avengers.jpg" alt="TOP kina USA: Sexuální obtěžování, cystická fibróza a lidstvo pokorně ustupující nepříteli" title="TOP kina USA: Sexuální obtěžování, cystická fibróza a lidstvo pokorně ustupující nepříteli" class="bl" width="132" height="100" />          </a>
+        </div>
+        <div class="text">
+          <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15994-top-kina-usa-captive-state-captain-marvel">TOP kina USA: Sexuální obtěžování, cystická fibróza a lidstvo pokorně ustupující nepříteli</a>
+                    <p>Captain Marvel má před sebou hodně světlé zítřky. Nejenže bylo oznámeno, že po skončení Endgame bude hlavní tváří následující fáze marvelovského universa a...</p>
+        </div>
+                <div class="clearBoth"></div>
+      </div>
+      </div>
+  <div class="clearBoth"></div>
+  
+  <div class="more"><a href="https://www.kinobox.cz/clanky/nejnovejsi">nejnovější</a></div>
+</div>
+<div id="premiery" class="box">
+  <h3 class="zahlavi light">
+    <a href="https://www.kinobox.cz/premiery/kino">Premiéry v kinech
+      <div class="bms">
+                  <span class="bm tabs_bm active"></span>
+                  <span class="bm tabs_bm"></span>
+                  <span class="bm tabs_bm"></span>
+                <img src="/img/rarrow_gray.svg" alt="" />
+      </div>
+    </a>
+  </h3>
+  <div class="tab">
+      <div class="film first">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/438603-loveni" title="LOVEní" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/loveni.jpg" alt="LOVEní" title="LOVEní"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/446033-manzelske-etudy-nova-generace" title="Manželské etudy: Nová generace" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/manzelske-etudy-nova-generace.jpg" alt="Manželské etudy: Nová generace" title="Manželské etudy: Nová generace"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/438604-paserak" title="Pašerák" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/the-mule-2.jpg" alt="Pašerák" title="Pašerák"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/447926-putovani-se-sobikem" title="Putování se sobíkem" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/ailo-une-odyssee-en-laponie.jpg" alt="Putování se sobíkem" title="Putování se sobíkem"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/436712-skleneny-pokoj" title="Skleněný pokoj" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/skleneny-pokoj.jpg" alt="Skleněný pokoj" title="Skleněný pokoj"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/447809-kouzelny-park" title="Kouzelný park" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/wonder-park.jpg" alt="Kouzelný park" title="Kouzelný park"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/437988-stastny-lazzaro" title="Šťastný Lazzaro" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/lazzaro-felice.jpg" alt="Šťastný Lazzaro" title="Šťastný Lazzaro"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/438404-zelena-kniha" title="Zelená kniha" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/green-book.jpg" alt="Zelená kniha" title="Zelená kniha"  width="119" />        </a>
+      </div>
+    </div>
+            <div class="clearBoth"></div>
+      </div>
+      <div class="tab" style="display: none">
+          <div class="film first">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/434755-captain-marvel" title="Captain Marvel" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/captain-marvel.jpg" alt="Captain Marvel" title="Captain Marvel"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/447898-psi-velicenstvo" title="Psí veličenstvo" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/the-queens-corgi.jpg" alt="Psí veličenstvo" title="Psí veličenstvo"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/437738-bojovnice-slunce" title="Bojovnice slunce" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/les-filles-du-soleil.jpg" alt="Bojovnice slunce" title="Bojovnice slunce"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/437736-do-boje" title="Do boje" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/un-autre-monde-1.jpg" alt="Do boje" title="Do boje"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/447802-co-jsme-komu-zase-udelali" title="Co jsme komu zase udělali?" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/quest-ce-quon-a-encore-fait-au-bon-dieu.jpg" alt="Co jsme komu zase udělali?" title="Co jsme komu zase udělali?"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/438887-vsechno-nejhorsi-2" title="Všechno nejhorší 2" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/happy-death-day-2u.jpg" alt="Všechno nejhorší 2" title="Všechno nejhorší 2"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/438230-colette-pribeh-vasne" title="Colette: Příběh vášně" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/colette-4.jpg" alt="Colette: Příběh vášně" title="Colette: Příběh vášně"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/447804-jizni-vitr" title="Jižní vítr" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/juzni-vetar.jpg" alt="Jižní vítr" title="Jižní vítr"  width="119" />        </a>
+      </div>
+    </div>
+            <div class="clearBoth"></div>
+      </div>
+      <div class="tab" style="display: none">
+          <div class="film first">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/438053-je-mi-jedno-ze-se-zapiseme-do-dejin-jako-barbari" title="&quot;Je mi jedno, že se zapíšeme do dějin jako barbaři&quot;" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/je-mi-jedno-ze-se-zapiseme-do-dejin-jako-barbari.jpg" alt="&quot;Je mi jedno, že se zapíšeme do dějin jako barbaři&quot;" title="&quot;Je mi jedno, že se zapíšeme do dějin jako barbaři&quot;"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/447803-yomeddine" title="Yomeddine" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/yomeddine.jpg" alt="Yomeddine" title="Yomeddine"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/354497-jak-vycvicit-draka-3" title="Jak vycvičit draka 3" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/how-to-train-your-dragon-3.jpg" alt="Jak vycvičit draka 3" title="Jak vycvičit draka 3"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/437984-kafarnaum" title="Kafarnaum" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/cafarnaum.jpg" alt="Kafarnaum" title="Kafarnaum"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/436445-uhori-maji-nabito" title="Úhoři mají nabito" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/benzina-dehtov.jpg" alt="Úhoři mají nabito" title="Úhoři mají nabito"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/437990-vsichni-to-vedi" title="Všichni to vědí" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/todos-lo-saben.jpg" alt="Všichni to vědí" title="Všichni to vědí"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/438645-mraziva-pomsta" title="Mrazivá pomsta" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/cold-pursuit.jpg" alt="Mrazivá pomsta" title="Mrazivá pomsta"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="film">
+      <div class="image">
+        <a class="bl" href="https://www.kinobox.cz/film/125523-alita-bojovy-andel" title="Alita: Bojový Anděl" rel="hbox[title]">
+        <img src="https://www.kbxmedia.cz/data/posters/130x195x1/battle-angel-1.jpg" alt="Alita: Bojový Anděl" title="Alita: Bojový Anděl"  width="119" />        </a>
+      </div>
+    </div>
+          <div class="clearBoth"></div>
+  </div>
+</div>
+<script type="text/Javascript">
+  var t0 = new tabbies({
+    container_id: "premiery",
+    active_class: "active"
+  });
+  $('#premiery .bms .bm').click(function(ev) { ev.preventDefault(); });
+</script>
+<div class="twocol twocol2">
+  <section id="hp-section3">
+    <div class="lcol">
+
+      <div id="rubriky">
+            
+    <div class="box rubrika caption odd">
+              <h3 class="zahlavi light"><a href="https://www.kinobox.cz/clanky/filmy">Filmy</a></h3>
+        <div class="content">   
+                                    <div class="hlavni_clanek">
+                <div class="image">
+                  <a href="https://www.kinobox.cz/clanek/15989-divka-z-budoucnosti-japonsko-anime-mirai-kinoboxcz">
+                    <img src="https://www.kbxmedia.cz/data/clanky/300x168x1/brzy-v-kinech-japonsky-animovany-zazrak-pro-divaky-od-5-do-105-let.jpg" alt="Brzy v kinech: Japonský animovaný zázrak pro diváky od 5 do 105 let" title="Brzy v kinech: Japonský animovaný zázrak pro diváky od 5 do 105 let" class="bl" width="300" height="168" />                  </a>
+                </div>
+                <div class="text">
+                  <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15989-divka-z-budoucnosti-japonsko-anime-mirai-kinoboxcz" title="Brzy v kinech: Japonský animovaný zázrak pro diváky od 5 do 105 let">Brzy v kinech: Japonský animovaný zázrak pro diváky od 5 do 105 let</a>
+                </div>
+                <div class="clearBoth"></div>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15988-godzilla-ii-zaporacke-nestvurci-se-predstavuji" title="Godzilla II: Hrůzostrašná monstra se představují">Godzilla II: Hrůzostrašná monstra se představují</a>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15981-kdy-se-fanousci-dc-comics-konecne-dockaji-solovek-flashe-a-batmana" title="Kdy se fanoušci DC Comics konečně dočkají sólovek Flashe a Batmana?">Kdy se fanoušci DC Comics konečně dočkají sólovek Flashe a Batmana?</a>
+              </div>
+                              </div>
+         
+      
+    </div>
+  
+          
+    <div class="box rubrika caption even">
+              <h3 class="zahlavi light"><a href="https://www.kinobox.cz/clanky/serialy">Seriály</a></h3>
+        <div class="content">   
+                                    <div class="hlavni_clanek">
+                <div class="image">
+                  <a href="https://www.kinobox.cz/clanek/15971-trailer-katastrofa-v-cernobylu-se-predstavuje-v-pusobive-mini-serii">
+                    <img src="https://www.kbxmedia.cz/data/clanky/300x168x1/trailer-katastrofa-v-cernobylu-se-predstavuje-v-pusobive-mini-serii.jpg" alt="Trailer: Katastrofa v Černobylu se představuje v působivé mini-sérii" title="Trailer: Katastrofa v Černobylu se představuje v působivé mini-sérii" class="bl" width="300" height="168" />                  </a>
+                </div>
+                <div class="text">
+                  <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15971-trailer-katastrofa-v-cernobylu-se-predstavuje-v-pusobive-mini-serii" title="Trailer: Katastrofa v Černobylu se představuje v působivé mini-sérii">Trailer: Katastrofa v Černobylu se představuje v působivé mini-sérii</a>
+                </div>
+                <div class="clearBoth"></div>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15962-necekane-vysel-serial-z-vetrelciho-universa-a-je-cely-k-videni-zdarma" title="Nečekaně vyšel seriál s Vetřelcem a je celý k vidění zdarma!">Nečekaně vyšel seriál s Vetřelcem a je celý k vidění zdarma!</a>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15957-blizi-se-konec-teorie-velkeho-tresku-predstavitel-sheldona-uz-ma-dalsi-kseft" title="Blíží se konec Teorie velkého třesku. Představitel Sheldona už má další &quot;kšeft&quot;">Blíží se konec Teorie velkého třesku. Představitel Sheldona už má...</a>
+              </div>
+                              </div>
+         
+      
+    </div>
+  
+          
+    <div class="box rubrika caption odd">
+              <h3 class="zahlavi light"><a href="https://www.kinobox.cz/clanky/hry">Hry</a></h3>
+        <div class="content">   
+                                    <div class="hlavni_clanek">
+                <div class="image">
+                  <a href="https://www.kinobox.cz/clanek/15897-milovnici-avengers-si-na-vysnenou-hru-se-svymi-hrdiny-pekne-pockaji">
+                    <img src="https://www.kbxmedia.cz/data/clanky/300x168x1/milovnici-avenegrs-si-na-vysnenou-hru-se-svymi-hrdiny-pekne-pockaji.jpg" alt="Milovníci Avengers si na vysněnou hru se svými hrdiny pěkně počkají" title="Milovníci Avengers si na vysněnou hru se svými hrdiny pěkně počkají" class="bl" width="300" height="168" />                  </a>
+                </div>
+                <div class="text">
+                  <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15897-milovnici-avengers-si-na-vysnenou-hru-se-svymi-hrdiny-pekne-pockaji" title="Milovníci Avengers si na vysněnou hru se svými hrdiny pěkně počkají">Milovníci Avengers si na vysněnou hru se svými hrdiny pěkně počkají</a>
+                </div>
+                <div class="clearBoth"></div>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15718-herni-svetova-valka-z-laka-v-nove-ukazce-na-hordy-nemrtvych" title="Herní Světová válka Z láká v nové ukázce na hordy nemrtvých">Herní Světová válka Z láká v nové ukázce na hordy nemrtvých</a>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15705-recenze-alien-blackout" title="Recenze: Alien: Blackout - zaslouží si mobilní Vetřelec nenávist fanoušků série?">Recenze: Alien: Blackout - zaslouží si mobilní Vetřelec nenávist...</a>
+              </div>
+                              </div>
+         
+      
+    </div>
+  
+          
+    <div class="box rubrika caption even">
+              <h3 class="zahlavi light"><a href="https://www.kinobox.cz/clanky/recenze">Recenze</a></h3>
+        <div class="content">   
+                                    <div class="hlavni_clanek">
+                <div class="image">
+                  <a href="https://www.kinobox.cz/clanek/15990-recenze-leaving-neverland-smutna-vypoved-o-lidske-lhostejnosti">
+                    <img src="https://www.kbxmedia.cz/data/clanky/300x168x1/recenze-leaving-neverland-smutna-vypoved-o-lidske-lhostejnosti-a-odkazu-ze-ktery-si-jackson-muze-sam.jpg" alt="Recenze: Leaving Neverland - smutná výpověď o lidské lhostejnosti a odkazu, za který si Jackson může sám" title="Recenze: Leaving Neverland - smutná výpověď o lidské lhostejnosti a odkazu, za který si Jackson může sám" class="bl" width="300" height="168" />                  </a>
+                </div>
+                <div class="text">
+                  <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15990-recenze-leaving-neverland-smutna-vypoved-o-lidske-lhostejnosti" title="Recenze: Leaving Neverland - smutná výpověď o lidské lhostejnosti a odkazu, za který si Jackson může sám">Recenze: Leaving Neverland - smutná výpověď o lidské lhostejnosti a odkazu, za který si Jackson...</a>
+                </div>
+                <div class="clearBoth"></div>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/5117-recenze-thor-prichazi-drzme-si-kladiva" title="Retro recenze: Thor - proměna buranského hrdiny v opravdového sympaťáka">Retro recenze: Thor - proměna buranského hrdiny v opravdového...</a>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15975-kinopremiery-nove-filmy-arctic" title="Recenze: Arctic: Ledové peklo - hvězdný Dán, přírodní živel, téměř mrtvá žena a medvěd">Recenze: Arctic: Ledové peklo - hvězdný Dán, přírodní živel...</a>
+              </div>
+                              </div>
+         
+      
+    </div>
+  
+          
+    <div class="box rubrika caption odd">
+              <h3 class="zahlavi light"><a href="https://www.kinobox.cz/clanky/tema">Téma</a></h3>
+        <div class="content">   
+                                    <div class="hlavni_clanek">
+                <div class="image">
+                  <a href="https://www.kinobox.cz/clanek/15048-nejlepsi-eroticke-filmy-za-celou-dobu-existence-kinematografie">
+                    <img src="https://www.kbxmedia.cz/data/clanky/300x168x1/nejlepsi-intimni-filmy-za-celou-dobu-kinematografie.jpg" alt="Nejlepší erotické filmy za celou dobu kinematografie" title="Nejlepší erotické filmy za celou dobu kinematografie" class="bl" width="300" height="168" />                  </a>
+                </div>
+                <div class="text">
+                  <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15048-nejlepsi-eroticke-filmy-za-celou-dobu-existence-kinematografie" title="Nejlepší erotické filmy za celou dobu kinematografie">Nejlepší erotické filmy za celou dobu kinematografie</a>
+                </div>
+                <div class="clearBoth"></div>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15967-david-cronenberg-narozeniny-moucha-kinobox-cz" title="David Cronenberg: Po stopách kultovního autora znepokojivých filmových vizí">David Cronenberg: Po stopách kultovního autora znepokojivých...</a>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/14480-erotika-provokace-film-top-nejzhavejsi-plakaty" title="Nejprovokativnější &quot;nahé&quot; filmové plakáty">Nejprovokativnější "nahé" filmové plakáty</a>
+              </div>
+                              </div>
+         
+      
+    </div>
+  
+          
+    <div class="box rubrika caption even">
+              <h3 class="zahlavi light"><a href="https://www.kinobox.cz/clanky/revue">Revue</a></h3>
+        <div class="content">   
+                                    <div class="hlavni_clanek">
+                <div class="image">
+                  <a href="https://www.kinobox.cz/clanek/15857-postradatelni-expendables-dabing-original">
+                    <img src="https://www.kbxmedia.cz/data/clanky/300x168x1/dabing-vs-original-expendables.jpg" alt="Dabing vs. originál: Expendables" title="Dabing vs. originál: Expendables" class="bl" width="300" height="168" />                  </a>
+                </div>
+                <div class="text">
+                  <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15857-postradatelni-expendables-dabing-original" title="Dabing vs. originál: Expendables">Dabing vs. originál: Expendables</a>
+                </div>
+                <div class="clearBoth"></div>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15974-cesky-umelec-ukazuje-apokalypsu-popkultury" title="Český umělec ukazuje apokalypsu popkultury">Český umělec ukazuje apokalypsu popkultury</a>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15953-captain-marvel-vzdala-hold-stanu-lee" title="Captain Marvel vzdala hold Stanu Leemu">Captain Marvel vzdala hold Stanu Leemu</a>
+              </div>
+                              </div>
+         
+      
+    </div>
+  
+          
+    <div class="box rubrika caption odd">
+              <h3 class="zahlavi light"><a href="https://www.kinobox.cz/clanky/rozhovory">Rozhovory</a></h3>
+        <div class="content">   
+                                    <div class="hlavni_clanek">
+                <div class="image">
+                  <a href="https://www.kinobox.cz/clanek/15976-babcakova-simona-zkaza-dejvickeho-divadla-rozhovor">
+                    <img src="https://www.kbxmedia.cz/data/clanky/300x168x1/simona-babcakova-mivam-deprese-pri-narozeninovych-oslavach.jpg" alt="Simona Babčáková: &quot;Mívám deprese při narozeninových oslavách.&quot;" title="Simona Babčáková: &quot;Mívám deprese při narozeninových oslavách.&quot;" class="bl" width="300" height="168" />                  </a>
+                </div>
+                <div class="text">
+                  <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15976-babcakova-simona-zkaza-dejvickeho-divadla-rozhovor" title="Simona Babčáková: &quot;Mívám deprese při narozeninových oslavách.&quot;">Simona Babčáková: "Mívám deprese při narozeninových oslavách."</a>
+                </div>
+                <div class="clearBoth"></div>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15972-mads-mikkelsen-rozhovor" title="Mads Mikkelsen: S hranicemi je to legrační, je velice zajímavé je hledat!">Mads Mikkelsen: S hranicemi je to legrační, je velice zajímavé je...</a>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15930-zkaza-dejvickeho-divadla-rozhovory-martha-issova-ma-vysnena-role-je-ivan-trojan" title="Martha Issová: &quot;Ve skutečnosti jsem labilnější, propadám ezoterice a nemám smysl pro humor.&quot;">Martha Issová: "Ve skutečnosti jsem labilnější, propadám...</a>
+              </div>
+                              </div>
+         
+      
+    </div>
+  
+          
+    <div class="box rubrika caption even">
+              <h3 class="zahlavi light"><a href="https://www.kinobox.cz/clanky/premiery-a-trzby">Premiéry a tržby</a></h3>
+        <div class="content">   
+                                    <div class="hlavni_clanek">
+                <div class="image">
+                  <a href="https://www.kinobox.cz/clanek/15991-top-kina-cr-18-3-2019">
+                    <img src="https://www.kbxmedia.cz/data/clanky/300x168x1/top-kina-cr-18-3-2019.jpg" alt="Top kina ČR: Slyšeli diváci na milostná vzplanutí a životní zrady &quot;Skleněného pokoje&quot;?" title="Top kina ČR: Slyšeli diváci na milostná vzplanutí a životní zrady &quot;Skleněného pokoje&quot;?" class="bl" width="300" height="168" />                  </a>
+                </div>
+                <div class="text">
+                  <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15991-top-kina-cr-18-3-2019" title="Top kina ČR: Slyšeli diváci na milostná vzplanutí a životní zrady &quot;Skleněného pokoje&quot;?">Top kina ČR: Slyšeli diváci na milostná vzplanutí a životní zrady "Skleněného pokoje"?</a>
+                </div>
+                <div class="clearBoth"></div>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15966-nove-filmy-skleneny-pokoj-stastny-lazarro" title="Premiéry v kinech: Chudý italský rolník potkává smetánku z vily Tugendhat">Premiéry v kinech: Chudý italský rolník potkává smetánku z vily...</a>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15959-tugendhat-vila-kinobox-cz-ceske-filmy" title="Slavná funkcionalistická památka a mezinárodní herecké hvězdy. Jak se natáčelo ve vile Tugendhat?">Slavná funkcionalistická památka a mezinárodní herecké hvězdy...</a>
+              </div>
+                              </div>
+         
+      
+    </div>
+  
+          
+    <div class="box rubrika caption odd">
+              <h3 class="zahlavi light"><a href="https://www.kinobox.cz/videa/filmy-zdarma-a-bonusy">Filmy zdarma a bonusy</a></h3>
+        <div class="content">
+                                  <div class="hlavni_clanek">
+              <div class="image">
+                <a href="https://www.kinobox.cz/video/16346-alien-isolation-digital-series-epizoda-7">
+                  <img src="https://www.kbxmedia.cz/data/video/300x168x1/alien-isolation-digital-series-epizoda-7.jpg" alt="Alien: Isolation (Digital Series): Epizoda 7" title="Alien: Isolation (Digital Series): Epizoda 7" class="bl" width="300" height="168" />                                  </a>
+              </div>
+              <div class="text">
+                <a class="nadpis nu" href="https://www.kinobox.cz/video/16346-alien-isolation-digital-series-epizoda-7" title="Alien: Isolation (Digital Series): Epizoda 7">Alien: Isolation (Digital Series): Epizoda 7</a>
+              </div>
+              <div class="clearBoth"></div>
+            </div>
+                                              <div class="clanek">
+              <a class="nadpis nu" href="https://www.kinobox.cz/video/16345-alien-isolation-digital-series-epizoda-6" title="Alien: Isolation (Digital Series): Epizoda 6">Alien: Isolation (Digital Series): Epizoda 6</a>
+            </div>
+                                              <div class="clanek">
+              <a class="nadpis nu" href="https://www.kinobox.cz/video/16344-alien-isolation-digital-series-epizoda-5" title="Alien: Isolation (Digital Series): Epizoda 5">Alien: Isolation (Digital Series): Epizoda 5</a>
+            </div>
+                              </div>
+         
+      
+    </div>
+  
+          
+    <div class="box rubrika caption even">
+              <h3 class="zahlavi light"><a href="https://www.kinobox.cz/clanky/festivaly">Festivaly a ceny</a></h3>
+        <div class="content">   
+                                    <div class="hlavni_clanek">
+                <div class="image">
+                  <a href="https://www.kinobox.cz/clanek/15880-zahajovaci-film-sci-fi-festivalu-future-gate-sklidil-obrovsky-uspech">
+                    <img src="https://www.kbxmedia.cz/data/clanky/300x168x1/zahajovaci-film-festivalu-future-gate-sklidil-obrovsky-uspech.jpg" alt="Létající kadibudka, meditující mnich, nacistka a Brežněv. Zahajovací film festivalu Future Gate sklidil obrovský úspěch" title="Létající kadibudka, meditující mnich, nacistka a Brežněv. Zahajovací film festivalu Future Gate sklidil obrovský úspěch" class="bl" width="300" height="168" />                  </a>
+                </div>
+                <div class="text">
+                  <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15880-zahajovaci-film-sci-fi-festivalu-future-gate-sklidil-obrovsky-uspech" title="Létající kadibudka, meditující mnich, nacistka a Brežněv. Zahajovací film festivalu Future Gate sklidil obrovský úspěch">Létající kadibudka, meditující mnich, nacistka a Brežněv. Zahajovací film festivalu Future Gate...</a>
+                </div>
+                <div class="clearBoth"></div>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15834-nejhorsimi-z-nejhorsich-donald-trump-zlate-maliny" title="Kdepak John Travolta, nejhorším hercem loňského roku je Donald Trump!">Kdepak John Travolta, nejhorším hercem loňského roku je Donald Trump!</a>
+              </div>
+                                                <div class="clanek">
+                <a class="nadpis nu" href="https://www.kinobox.cz/clanek/15829-letosni-oscari-nevesti-nic-dobreho" title="GLOSA: Jak na Oscary? S holocaustem, životopisy, homosexuály a dalšími „životem zkoušenými“ lidmi">GLOSA: Jak na Oscary? S holocaustem, životopisy, homosexuály a...</a>
+              </div>
+                              </div>
+         
+      
+    </div>
+  
+    <div class="clearBoth"></div>
+</div>      
+      
+    </div>
+
+    <div class="rcol">
+
+      <div id="b300_fixbox">
+  <div class="box banner_300 bless">
+  <div style="width:300px;min-height: 300px;background-color:#ffffff;margin: auto">
+    <table style="margin: auto;">
+      <tr><td class="content">
+        <div id='bmone2n-19813.1.1.15'>
+  <noscript><div style='display:inline'><a href='https://go.cz.bbelements.com/please/redirect/19813/2/1/15/'><img src='https://go.cz.bbelements.com/please/showit/19813/2/1/15/?typkodu=img' style='border-width:0' alt='' /></a></div></noscript>
+</div>      </td></tr>
+    </table>
+  </div>
+  <div class="clearBoth"></div>
+</div></div>
+<script type="text/javascript">
+  KBX.registerEvent('page.loaded', function() {
+    var fi_b300_fixbox = new fix_inside('b300_fixbox', 'hp-section3', 8);
+  });
+</script>
+    </div>
+    <hr class="cleaner" />
+  </section>
+
+  <section id="hp-section4">
+    <div class="lcol">
+    
+      <div id="dvd_tipy" class="box caption filmy_tipy white">
+  <h3 class="zahlavi"><a href="https://www.kinobox.cz/premiery/dvd_bluray">DVD a Blu-ray</a></h3>
+  <div class="content">
+              <div class="film">
+        <div class="image">
+          <a href="https://www.kinobox.cz/film/438110-kouzelnik-zito" title="Kouzelník Žito" rel="hbox[title]">
+            <img src="https://www.kbxmedia.cz/data/posters/130x195x1/kouzelnik-zito-1.jpg" alt="Kouzelník Žito" title="Kouzelník Žito"  width="130" height="195" /></a>
+        </div>
+        <div class="clearBoth"></div>
+      </div>
+      
+          <div class="film last">
+        <div class="image">
+          <a href="https://www.kinobox.cz/film/438228-nebezpecna-laskavost" title="Nebezpečná laskavost" rel="hbox[title]">
+            <img src="https://www.kbxmedia.cz/data/posters/130x195x1/a-simple-favor.jpg" alt="Nebezpečná laskavost" title="Nebezpečná laskavost"  width="130" height="195" /></a>
+        </div>
+        <div class="clearBoth"></div>
+      </div>
+      
+        <div class="clearBoth"></div>
+  </div>
+</div>
+      
+      <div id="o2_tipy" class="box caption filmy_tipy white">
+  <h3 class="zahlavi"><a href="https://www.kinobox.cz/filmy_online">Online</a></h3>
+  <div class="content">
+              <div class="film">
+        <div class="image">
+          <a href="https://www.kinobox.cz/film/436325-duverny-nepritel" title="Důvěrný nepřítel" rel="hbox[title]">
+            <img src="https://www.kbxmedia.cz/data/posters/130x195x1/duverny-nepritel.jpg" alt="Důvěrný nepřítel" title="Důvěrný nepřítel"  width="130" height="195" /></a>
+        </div>
+        <div class="clearBoth"></div>
+      </div>
+      
+          <div class="film last">
+        <div class="image">
+          <a href="https://www.kinobox.cz/film/436032-hastrman" title="Hastrman" rel="hbox[title]">
+            <img src="https://www.kbxmedia.cz/data/posters/130x195x1/hastrman-1.jpg" alt="Hastrman" title="Hastrman"  width="130" height="195" /></a>
+        </div>
+        <div class="clearBoth"></div>
+      </div>
+      
+        <div class="clearBoth"></div>
+  </div>
+</div>
+        
+
+    </div>
+
+    <div id="hp-section4" class="rcol">
+      
+      <div id="tv_tipy" class="box caption filmy_tipy white">
+  <h3 class="zahlavi"><a href="https://www.kinobox.cz/tvprogram/tipy">Televize</a></h3>
+  <div class="content">
+                              <div class="film">
+          <div class="image">
+            <a href="https://www.kinobox.cz/film/262595-vejska" title="Vejška" rel="hbox[title]">
+              <img src="https://www.kbxmedia.cz/data/posters/130x195x1/vejska.jpg" alt="Vejška" title="Vejška"  width="130" height="195" /></a>
+          </div>
+          <div class="clearBoth"></div>
+        </div>
+                                  <div class="film last">
+          <div class="image">
+            <a href="https://www.kinobox.cz/film/25895-zivot-brouka" title="Život brouka" rel="hbox[title]">
+              <img src="https://www.kbxmedia.cz/data/posters/130x195x1/zivot-brouka.jpg" alt="Život brouka" title="Život brouka"  width="130" height="195" /></a>
+          </div>
+          <div class="clearBoth"></div>
+        </div>
+                <div class="clearBoth"></div>
+  </div>
+</div>
+
+    </div>
+    <hr class="cleaner" />
+  </section>
+
+  <section id="hp-section5">
+    <div class="lcol">
+
+      <div id="boxoffice_box" class="box caption">
+  <h3 class="zahlavi light"><a href="https://www.kinobox.cz/trzby/2019/tyden_11">TOP kina USA</a></h3>
+  <div class="content">
+    <ul class="radky">
+                            <li class="odd">
+          <span class="nr">1.</span>
+                      <span class="name"><a class="nu" rel="hbox[img|captain-marvel]" href="https://www.kinobox.cz/film/434755-captain-marvel">Captain Marvel</a></span>
+                  </li>
+                      <li class="even">
+          <span class="nr">2.</span>
+                      <span class="name"><a class="nu" rel="hbox[img|wonder-park]" href="https://www.kinobox.cz/film/447809-kouzelny-park">Kouzelný park</a></span>
+                  </li>
+                      <li class="odd">
+          <span class="nr">3.</span>
+                      <span class="name"><a class="nu" rel="hbox[img|five-feet-apart]" href="https://www.kinobox.cz/film/447939-five-feet-apart">Five Feet Apart</a></span>
+                  </li>
+                      <li class="even">
+          <span class="nr">4.</span>
+                      <span class="name"><a class="nu" rel="hbox[img|how-to-train-your-dragon-3]" href="https://www.kinobox.cz/film/354497-jak-vycvicit-draka-3">Jak vycvičit draka 3</a></span>
+                  </li>
+                      <li class="odd">
+          <span class="nr">5.</span>
+                      <span class="name"><a class="nu" rel="hbox[img|a-madea-family-funeral]" href="https://www.kinobox.cz/film/447928-tyler-perrys-a-madea-family-funeral">Tyler Perry's A Madea Family Funeral</a></span>
+                  </li>
+                      <li class="even">
+          <span class="nr">6.</span>
+                      <span class="name"><a class="nu" rel="hbox[img|no-manches-frida-2]" href="https://www.kinobox.cz/film/447978-no-manches-frida-2">No Manches Frida 2</a></span>
+                  </li>
+                      <li class="odd">
+          <span class="nr">7.</span>
+                      <span class="name"><a class="nu" rel="hbox[img|captive-state]" href="https://www.kinobox.cz/film/447349-captive-state">Captive State</a></span>
+                  </li>
+                      <li class="even">
+          <span class="nr">8.</span>
+                      <span class="name"><a class="nu" rel="hbox[img|the-lego-movie-2-the-second-part]" href="https://www.kinobox.cz/film/438120-lego-pribeh-2">LEGO® příběh 2</a></span>
+                  </li>
+                      <li class="odd">
+          <span class="nr">9.</span>
+                      <span class="name"><a class="nu" rel="hbox[img|battle-angel-1]" href="https://www.kinobox.cz/film/125523-alita-bojovy-andel">Alita: Bojový Anděl</a></span>
+                  </li>
+                      <li class="even">
+          <span class="nr">10.</span>
+                      <span class="name"><a class="nu" rel="hbox[img|green-book]" href="https://www.kinobox.cz/film/438404-zelena-kniha">Zelená kniha</a></span>
+                  </li>
+          </ul>
+  </div>
+</div>      
+      <div id="top_box" class="box caption">
+  <h3 class="zahlavi light"><a href="https://www.kinobox.cz/top20kino/2019/tyden_11/divaci_vikend_sest">Top kina ČR</a></h3>
+  <div class="content">
+    <ul class="radky">
+                                    <li class="odd">
+          <span class="nr">1.</span>
+          <a class="nu" href="https://www.kinobox.cz/film/434755-captain-marvel" rel="hbox[img|captain-marvel]">Captain Marvel</a>
+        </li>
+                              <li class="even">
+          <span class="nr">2.</span>
+          <a class="nu" href="https://www.kinobox.cz/film/438473-zeny-v-behu" rel="hbox[img|zeny-v-behu-1]">Ženy v běhu</a>
+        </li>
+                              <li class="odd">
+          <span class="nr">3.</span>
+          <a class="nu" href="https://www.kinobox.cz/film/354497-jak-vycvicit-draka-3" rel="hbox[img|how-to-train-your-dragon-3]">Jak vycvičit draka 3</a>
+        </li>
+                              <li class="even">
+          <span class="nr">4.</span>
+          <a class="nu" href="https://www.kinobox.cz/film/436712-skleneny-pokoj" rel="hbox[img|skleneny-pokoj]">Skleněný pokoj</a>
+        </li>
+                              <li class="odd">
+          <span class="nr">5.</span>
+          <a class="nu" href="https://www.kinobox.cz/film/447809-kouzelny-park" rel="hbox[img|wonder-park]">Kouzelný park</a>
+        </li>
+                              <li class="even">
+          <span class="nr">6.</span>
+          <a class="nu" href="https://www.kinobox.cz/film/438404-zelena-kniha" rel="hbox[img|green-book]">Zelená kniha</a>
+        </li>
+                              <li class="odd">
+          <span class="nr">7.</span>
+          <a class="nu" href="https://www.kinobox.cz/film/447898-psi-velicenstvo" rel="hbox[img|the-queens-corgi]">Psí veličenstvo</a>
+        </li>
+                              <li class="even">
+          <span class="nr">8.</span>
+          <a class="nu" href="https://www.kinobox.cz/film/355171-bohemian-rhapsody" rel="hbox[img|untitled-freddie-mercury-biopic]">Bohemian Rhapsody</a>
+        </li>
+                              <li class="odd">
+          <span class="nr">9.</span>
+          <a class="nu" href="https://www.kinobox.cz/film/447802-co-jsme-komu-zase-udelali" rel="hbox[img|quest-ce-quon-a-encore-fait-au-bon-dieu]">Co jsme komu zase udělali?</a>
+        </li>
+                              <li class="even">
+          <span class="nr">10.</span>
+          <a class="nu" href="https://www.kinobox.cz/film/438887-vsechno-nejhorsi-2" rel="hbox[img|happy-death-day-2u]">Všechno nejhorší 2</a>
+        </li>
+          </ul>
+  </div>
+</div>      
+      <div class="clearBoth"></div>
+
+      <div id="videos_articles_stripe">
+
+  <div id="most_watched_video" class="box white caption">
+    <h3 class="zahlavi">
+      <a href="https://www.kinobox.cz/videa/nejsledovanejsi">Nejsledovanější videa</a>
+    </h3>
+    <div class="content">
+              <div class="image">
+          <a href="https://www.kinobox.cz/videa/nejsledovanejsi" title="Přehrát video">
+            <img src="https://www.kbxmedia.cz/data/video/300x168x1/doom-annihilation-trailer.jpg" alt="Doom: Annihilation: Teaser trailer" title="Doom: Annihilation: Teaser trailer" class="bl" width="300" height="168" />          </a>
+        </div>
+        <div class="text">
+          <a class="nu" href="https://www.kinobox.cz/videa/nejsledovanejsi">Doom: Annihilation: Teaser trailer</a>
+        </div>
+          </div>
+  </div>
+
+      <div id="most_read_article" class="box white caption">
+      <h3 class="zahlavi"><a href="https://www.kinobox.cz/clanky/nejctenejsi">Nejsledovanější články</a></h3>
+      <div class="content">
+        <div class="image">
+          <a href="https://www.kinobox.cz/clanky/nejctenejsi" title="Nejsledovanější články">
+            <img src="https://www.kbxmedia.cz/data/clanky/300x168x1/nejlepsi-intimni-filmy-za-celou-dobu-kinematografie.jpg" alt="Nejlepší erotické filmy za celou dobu kinematografie" title="Nejlepší erotické filmy za celou dobu kinematografie"  width="300" height="168" />          </a>
+        </div>
+        <div class="text">
+          <a class="nu" href="https://www.kinobox.cz/clanky/nejctenejsi">Nejlepší erotické filmy za celou dobu kinematografie</a>
+        </div>
+        <div class="clearBoth"></div>
+      </div>
+    </div>
+  
+</div>      
+      <div class="clearBoth"></div>
+      
+      <div id="anketa_box" class="box caption">
+  <h3 class="zahlavi light"><a href="https://www.kinobox.cz/ankety">Ankety</a></h3>
+  <div class="content">
+    <div id="anketa_529" class="anketa" >
+  <div class="otazka">Je dobře, že jde epizoda s Michaelem Jacksonem do trezoru?</div>
+      <ul>
+              <li class="option">
+          <div class="text">
+            <span class="anketa_button anketa_moznost_529" style="position: static">Určitě!</span>
+            <span class="result_value"></span>
+            <input type="hidden" value="2393" />
+          </div>
+          <div class="background">
+            <div class="indicator" style="background-position: -450px top;"></div>
+          </div>
+          
+          <div class="clearBoth"></div>
+        </li>
+              <li class="option">
+          <div class="text">
+            <span class="anketa_button anketa_moznost_529" style="position: static">Vůbec.</span>
+            <span class="result_value"></span>
+            <input type="hidden" value="2394" />
+          </div>
+          <div class="background">
+            <div class="indicator" style="background-position: -450px top;"></div>
+          </div>
+          
+          <div class="clearBoth"></div>
+        </li>
+              <li class="option">
+          <div class="text">
+            <span class="anketa_button anketa_moznost_529" style="position: static">Zatím váhám.</span>
+            <span class="result_value"></span>
+            <input type="hidden" value="2395" />
+          </div>
+          <div class="background">
+            <div class="indicator" style="background-position: -450px top;"></div>
+          </div>
+          
+          <div class="clearBoth"></div>
+        </li>
+          </ul>
+  
+    <div class="padding"></div>
+</div>
+    <div class="more_bms white">
+              <div class="more white"><a href="https://www.kinobox.cz/clanek/15934-simpsonovi-epizoda-s-michaelem-jacksonem-miri-do-trezoru"><b>více k tématu</b></a></div>
+          </div>
+  </div>
+</div>
+
+
+<script language="JavaScript" type="text/javascript">
+  var loaded_polls = [];
+  var ankety = [];
+  anketa_titulka = new anketa('anketa_529', true, false, {
+    indicator_length: '450'
+  });
+  anketa_titulka.ajaxInit();
+</script>      
+      <div id="n16i_tabs">
+  <div id="n16i_filmy" class="box tab caption n16i_box">
+    <h3 class="zahlavi light">
+      <a class="" href="https://www.kinobox.cz/filmy">Nejnavštěvovanější</a>
+      <div class="bms">
+        <a class="bm active"></a>
+        <a class="bm"></a>
+      </div>
+    </h3>
+    <div class="content">
+      <ul class="radky">
+                                    <li class="odd">
+            <span class="nr">1.</span>
+            <a class="nu" href="https://www.kinobox.cz/film/31701-krasna-hasterilka" rel="hbox[img|krasna-hasterilka]">Krásná hašteřilka (1991)</a>      
+          </li>
+                            <li class="even">
+            <span class="nr">2.</span>
+            <a class="nu" href="https://www.kinobox.cz/film/237612-shortbus" rel="hbox[img|shortbus]">Shortbus (2006)</a>      
+          </li>
+                            <li class="odd">
+            <span class="nr">3.</span>
+            <a class="nu" href="https://www.kinobox.cz/film/434771-komorna" rel="hbox[img|ah-ga-ssi]">Komorná (2016)</a>      
+          </li>
+                            <li class="even">
+            <span class="nr">4.</span>
+            <a class="nu" href="https://www.kinobox.cz/film/325378-nymfomanka-cast-i" rel="hbox[img|nymphomaniac]">Nymfomanka, část I. (2013)</a>      
+          </li>
+                            <li class="odd">
+            <span class="nr">5.</span>
+            <a class="nu" href="https://www.kinobox.cz/film/198238-alice-in-wonderland" rel="hbox[img|alice-in-wonderland-6]">Alice in Wonderland (1976)</a>      
+          </li>
+                            <li class="even">
+            <span class="nr">6.</span>
+            <a class="nu" href="https://www.kinobox.cz/film/18722-sex-lzi-a-video" rel="hbox[img|sex-lzi-a-video]">Sex, lži a video (1989)</a>      
+          </li>
+                            <li class="odd">
+            <span class="nr">7.</span>
+            <a class="nu" href="https://www.kinobox.cz/film/438473-zeny-v-behu" rel="hbox[img|zeny-v-behu-1]">Ženy v běhu (2019)</a>      
+          </li>
+                            <li class="even">
+            <span class="nr">8.</span>
+            <a class="nu" href="https://www.kinobox.cz/film/433239-pestrobarvec-petrklicovy" rel="hbox[img|the-duke-of-burgundy]">Pestrobarvec petrklíčový (2014)</a>      
+          </li>
+                            <li class="odd">
+            <span class="nr">9.</span>
+            <a class="nu" href="https://www.kinobox.cz/film/438404-zelena-kniha" rel="hbox[img|green-book]">Zelená kniha (2018)</a>      
+          </li>
+                            <li class="even">
+            <span class="nr">10.</span>
+            <a class="nu" href="https://www.kinobox.cz/film/432882-neznamy-od-jezera" rel="hbox[img|linconnu-du-lac]">Neznámý od jezera (2013)</a>      
+          </li>
+              </ul>
+      <div class="clearBoth"></div>
+    </div>
+  </div>
+  <div id="n16i_osoby" class="box tab caption n16i_box">
+    <h3 class="zahlavi light">
+      <a class="" href="https://www.kinobox.cz/osobnosti">Nejnavštěvovanější</a>
+      <div class="bms">
+        <a class="bm"></a>
+        <a class="bm active"></a>
+      </div>
+    </h3>
+    <div class="content">
+      <ul class="radky">
+                                    <li class="odd">
+            <span class="nr">1.</span>          
+            <a class="nu" href="https://www.kinobox.cz/osoba/965042-lars-von-trier" rel="hbox[img|lars-von-trier]">Lars von Trier</a> 
+            <span class="fr">*1956</span>
+          </li>
+                            <li class="even">
+            <span class="nr">2.</span>          
+            <a class="nu" href="https://www.kinobox.cz/osoba/18641-johnny-depp" rel="hbox[img|johnny-depp]">Johnny Depp</a> 
+            <span class="fr">*1963</span>
+          </li>
+                            <li class="odd">
+            <span class="nr">3.</span>          
+            <a class="nu" href="https://www.kinobox.cz/osoba/35130-monika-zakova" rel="hbox[img|monika-zakova]">Monika Žáková</a> 
+            <span class="fr">*1963</span>
+          </li>
+                            <li class="even">
+            <span class="nr">4.</span>          
+            <a class="nu" href="https://www.kinobox.cz/osoba/18068-jane-birkinova" rel="hbox[img|jane-birkinova]">Jane Birkinová</a> 
+            <span class="fr">*1946</span>
+          </li>
+                            <li class="odd">
+            <span class="nr">5.</span>          
+            <a class="nu" href="https://www.kinobox.cz/osoba/20828-brigitte-nielsen" rel="hbox[img|brigitte-nielsen]">Brigitte Nielsen</a> 
+            <span class="fr">*1963</span>
+          </li>
+                            <li class="even">
+            <span class="nr">6.</span>          
+            <a class="nu" href="https://www.kinobox.cz/osoba/965426-emmanuelle-beart" rel="hbox[img|emmanuelle-beart]">Emmanuelle Béart</a> 
+            <span class="fr">*1963</span>
+          </li>
+                            <li class="odd">
+            <span class="nr">7.</span>          
+            <a class="nu" href="https://www.kinobox.cz/osoba/22555-emily-watson" rel="hbox[img|emily-watson]">Emily Watson</a> 
+            <span class="fr">*1967</span>
+          </li>
+                            <li class="even">
+            <span class="nr">8.</span>          
+            <a class="nu" href="https://www.kinobox.cz/osoba/930253-chris-hemsworth" rel="hbox[img|chris-hemsworth]">Chris Hemsworth</a> 
+            <span class="fr">*1983</span>
+          </li>
+                            <li class="odd">
+            <span class="nr">9.</span>          
+            <a class="nu" href="https://www.kinobox.cz/osoba/965564-tatiana-vilhelmova" rel="hbox[img|tatiana-vilhelmova]">Tatiana Vilhelmová</a> 
+            <span class="fr">*1978</span>
+          </li>
+                            <li class="even">
+            <span class="nr">10.</span>          
+            <a class="nu" href="https://www.kinobox.cz/osoba/67571-jason-statham" rel="hbox[img|jason-statham]">Jason Statham</a> 
+            <span class="fr">*1972</span>
+          </li>
+              </ul>
+      <div class="clearBoth"></div>
+    </div>
+  </div>
+</div>
+<script type="text/Javascript">
+  var t_n16i = new tabbies({
+    container_id: "n16i_tabs",
+    active_class: "active",
+    next_class: "bm"
+  });
+</script>
+      <div class="clearBoth"></div>
+
+      <div id="trailery_box" class="box caption white">
+  <h3 class="zahlavi"><a href="https://www.kinobox.cz/videa/trailery">Trailery</a></h3>
+  <div class="content">
+              <div class="trailer">
+        <a href="https://www.kinobox.cz/video/16382-body-at-brighton-rock-trailer" rel="hbox[title]" title="Body at Brighton Rock">
+          <img src="https://www.kbxmedia.cz/data/posters/130x195x1/body-at-brighton-rock.jpg" alt="Body at Brighton Rock" title="Body at Brighton Rock"  width="120" height="180" />                    <img class="play-ol" src="/img/play_icon_s.png" />
+        </a>
+      </div>
+                <div class="trailer">
+        <a href="https://www.kinobox.cz/video/16381-five-feet-apart-2019-trailer" rel="hbox[title]" title="Five Feet Apart">
+          <img src="https://www.kbxmedia.cz/data/posters/130x195x1/five-feet-apart.jpg" alt="Five Feet Apart" title="Five Feet Apart"  width="120" height="180" />                    <img class="play-ol" src="/img/play_icon_s.png" />
+        </a>
+      </div>
+                <div class="trailer">
+        <a href="https://www.kinobox.cz/video/16375-turn-up-charlie-trailer" rel="hbox[title]" title="Turn Up Charlie">
+          <img src="https://www.kbxmedia.cz/data/posters/130x195x1/turn-up-charlie.jpg" alt="Turn Up Charlie" title="Turn Up Charlie"  width="120" height="180" />                    <img class="play-ol" src="/img/play_icon_s.png" />
+        </a>
+      </div>
+                <div class="trailer">
+        <a href="https://www.kinobox.cz/video/16370-thugs-of-hindostan-trailer" rel="hbox[title]" title="Thugs of Hindostan">
+          <img src="https://www.kbxmedia.cz/data/posters/130x195x1/thugs-of-hindostan.jpg" alt="Thugs of Hindostan" title="Thugs of Hindostan"  width="120" height="180" />                    <img class="play-ol" src="/img/play_icon_s.png" />
+        </a>
+      </div>
+                <div class="trailer last">
+        <a href="https://www.kinobox.cz/video/16366-the-head-hunter-trailer" rel="hbox[title]" title="The Head Hunter">
+          <img src="https://www.kbxmedia.cz/data/posters/130x195x1/the-head-hunter.jpg" alt="The Head Hunter" title="The Head Hunter"  width="120" height="180" />                    <img class="play-ol" src="/img/play_icon_s.png" />
+        </a>
+      </div>
+              <div class="clearBoth"></div>
+                <div class="trailer bottom">
+        <a href="https://www.kinobox.cz/video/16365-chernobyl-2019-teaser-trailer" rel="hbox[title]" title="Chernobyl">
+          <img src="https://www.kbxmedia.cz/data/posters/130x195x1/__unknown.jpg" alt="Chernobyl" title="Chernobyl"  width="120" height="180" />                    <img class="play-ol" src="/img/play_icon_s.png" />
+        </a>
+      </div>
+                <div class="trailer bottom">
+        <a href="https://www.kinobox.cz/video/16364-batman-vs-teenage-mutant-ninja-turtles-trailer" rel="hbox[title]" title="Batman Vs. Teenage Mutant Ninja Turtles">
+          <img src="https://www.kbxmedia.cz/data/posters/130x195x1/__unknown.jpg" alt="Batman Vs. Teenage Mutant Ninja Turtles" title="Batman Vs. Teenage Mutant Ninja Turtles"  width="120" height="180" />                    <img class="play-ol" src="/img/play_icon_s.png" />
+        </a>
+      </div>
+                <div class="trailer bottom">
+        <a href="https://www.kinobox.cz/video/16363-trabantem-tam-a-zase-zpatky-teaser-trailer-2" rel="hbox[title]" title="Trabantem tam a zase zpátky">
+          <img src="https://www.kbxmedia.cz/data/posters/130x195x1/trabantem-tam-a-zase-zpatky.jpg" alt="Trabantem tam a zase zpátky" title="Trabantem tam a zase zpátky"  width="120" height="180" />          <div class="has_sub">CZ TRAILER</div>          <img class="play-ol" src="/img/play_icon_s.png" />
+        </a>
+      </div>
+                <div class="trailer bottom">
+        <a href="https://www.kinobox.cz/video/16353-vzplanuti-burning-trailer" rel="hbox[title]" title="Vzplanutí">
+          <img src="https://www.kbxmedia.cz/data/posters/130x195x1/beoning.jpg" alt="Vzplanutí" title="Vzplanutí"  width="120" height="180" />                    <img class="play-ol" src="/img/play_icon_s.png" />
+        </a>
+      </div>
+                <div class="trailer last bottom">
+        <a href="https://www.kinobox.cz/video/16350-avengers-endgame-2019-official-trailer" rel="hbox[title]" title="Avengers: Endgame">
+          <img src="https://www.kbxmedia.cz/data/posters/130x195x1/untitled-avengers-movie.jpg" alt="Avengers: Endgame" title="Avengers: Endgame"  width="120" height="180" />          <div class="has_sub">CZ TITULKY</div>          <img class="play-ol" src="/img/play_icon_s.png" />
+        </a>
+      </div>
+              <div class="clearBoth"></div>
+              <div class="clearBoth"></div>
+  </div>
+</div>      
+    </div>
+
+    <div class="rcol">
+      
+      <div id="b300_2_fixbox">
+  <div class="box banner_300 bless">
+  <div style="width:300px;min-height: 300px;background-color:#ffffff;margin: auto">
+    <table style="margin: auto;">
+      <tr><td class="content">
+        <div id='bmone2n-19813.2.1.15'>
+  <noscript><div style='display:inline'><a href='https://go.cz.bbelements.com/please/redirect/19813/2/1/15/'><img src='https://go.cz.bbelements.com/please/showit/19813/2/1/15/?typkodu=img' style='border-width:0' alt='' /></a></div></noscript>
+</div>      </td></tr>
+    </table>
+  </div>
+  <div class="clearBoth"></div>
+</div></div>
+<script type="text/javascript">
+  KBX.registerEvent('page.loaded', function() {
+    var fi_b300_2_fixbox = new fix_inside('b300_2_fixbox', 'hp-section5', 8);
+  });
+</script>      
+    </div>
+    <hr class="cleaner" />
+  </section>
+
+  <section id="hp-section6">
+    <div class="lcol">
+      
+    <div id="diskuse_box" class="box caption">
+    <h3 class="zahlavi light"><a href="https://www.kinobox.cz/diskuse/nejnovejsi">Diskuse</a></h3>
+    <div class="content">
+                                        <div class="post">
+                <div class="image">
+                    <img src="https://www.kbxmedia.cz/data/users/64x64x2/__unknown.jpg" alt="el-vlkova" title="el-vlkova"  width="64" height="64" />                </div>
+                <div class="text">
+                    <div class="discussion">
+                        <a href="https://www.kinobox.cz/clanek/15990-recenze-leaving-neverland-smutna-vypoved-o-lidske-lhostejnosti-a-odkazu-za-ktery-si-jackson-muze-sam/diskuse">Recenze: Leaving Neverland - smutná výpověď o lidské lhostejnosti a odkazu, za který si Jackson může sám</a>
+                        <span class="count">(5)</span>
+                    </div>
+                                            <a href="https://www.kinobox.cz/uzivatel/64918" class="user">el-vlkova</a>
+                                        | <span class="time">před 52 minutami</span>
+
+                    <p>
+                        Mě je upřímně jedno, jestli byl nebo nebyl pedofil. Pravdu už se stejně nedozvíme. A tančit na mrtvole umí každej. Rozhodně nevěřím tomu...                    </p>
+
+                </div>
+            </div>
+                                <div class="post">
+                <div class="image">
+                    <img src="https://www.kbxmedia.cz/data/users/64x64x2/kim6.jpg" alt="Kim6" title="Kim6"  width="64" height="64" />                </div>
+                <div class="text">
+                    <div class="discussion">
+                        <a href="https://www.kinobox.cz/clanek/16000-recenze-paserak-88lety-byvaly-sex-symbol-clint-eastwood-zreziroval-svuj-temer-ctyricaty-film-a-hraje-v-nem-opet-hlavni-roli/diskuse">Recenze: Pašerák - 88letý bývalý sex symbol Clint Eastwood zrežíroval svůj téměř čtyřicátý film a hraje v něm (opět) hlavní roli</a>
+                        <span class="count">(1)</span>
+                    </div>
+                                            <a href="https://www.kinobox.cz/uzivatel/63918" class="user">Kim6</a>
+                                        | <span class="time">před hodinou</span>
+
+                    <p>
+                        Eastwood je prostě borec                    </p>
+
+                </div>
+            </div>
+                                <div class="post">
+                <div class="image">
+                    <img src="https://www.kbxmedia.cz/data/users/64x64x2/__unknown.jpg" alt="Gaba81" title="Gaba81"  width="64" height="64" />                </div>
+                <div class="text">
+                    <div class="discussion">
+                        <a href="https://www.kinobox.cz/clanek/15990-recenze-leaving-neverland-smutna-vypoved-o-lidske-lhostejnosti-a-odkazu-za-ktery-si-jackson-muze-sam/diskuse">Recenze: Leaving Neverland - smutná výpověď o lidské lhostejnosti a odkazu, za který si Jackson může sám</a>
+                        <span class="count">(5)</span>
+                    </div>
+                                            <a href="https://www.kinobox.cz/uzivatel/81576" class="user">Gaba81</a>
+                                        | <span class="time">před 5 hodinami</span>
+
+                    <p>
+                        Dokument jsem neviděla a nemam v plánu se dívat. Ale  divím se, ze nikdo řešení rodiče-matky , tatínky.  Chránit svoje děti je zodpovědnost...                    </p>
+
+                </div>
+            </div>
+                                <div class="post">
+                <div class="image">
+                    <img src="https://www.kbxmedia.cz/data/users/64x64x2/tom-hardy.jpg" alt="Tom Hardy" title="Tom Hardy"  width="64" height="64" />                </div>
+                <div class="text">
+                    <div class="discussion">
+                        <a href="https://www.kinobox.cz/clanek/13050-od-cell-po-vzpouru-stroju-nejhorsi-filmy-podle-mistra-strachu-stephena-kinga/diskuse">Od Cell po Vzpouru strojů - nejhorší filmy podle mistra strachu Stephena Kinga</a>
+                        <span class="count">(3)</span>
+                    </div>
+                                            <a href="https://www.kinobox.cz/uzivatel/15089" class="user">Tom Hardy</a>
+                                        | <span class="time">včera</span>
+
+                    <p>
+                        Tu jsem neviděl, ale nemá zdaleka tak mizerné divácké hodnocení                    </p>
+
+                </div>
+            </div>
+            </div>
+</div>      
+    </div>
+
+    <div class="rcol">
+      
+      <div id="komentare_box" class="box caption dark">
+  <h3 class="zahlavi light"><a href="https://www.kinobox.cz/komentare">Komentáře</a></h3>
+  <div class="content">
+    <ul>
+                            <li class="komentar odd">
+          <div class="image">
+            <img src="https://www.kbxmedia.cz/data/users/30x30x2/sheldon.jpg" alt="Sheldon" title="Sheldon"  width="30" height="30" />          </div>
+          <div class="text">
+                        <a href="https://www.kinobox.cz/uzivatel/12145" class="user">Sheldon</a>:
+                        
+                          <span class="hlas percent_gut">85%</span>
+                        
+            <a href="https://www.kinobox.cz/film/438604-paserak/komentare" class="film" rel="hbox[img|the-mule-2]">Pašerák</a><br />
+          </div>
+          <div class="clearBoth"></div>
+        </li>
+                      <li class="komentar even">
+          <div class="image">
+            <img src="https://www.kbxmedia.cz/data/users/30x30x2/sheldon.jpg" alt="Sheldon" title="Sheldon"  width="30" height="30" />          </div>
+          <div class="text">
+                        <a href="https://www.kinobox.cz/uzivatel/12145" class="user">Sheldon</a>:
+                        
+                          <span class="hlas percent_gut">85%</span>
+                        
+            <a href="https://www.kinobox.cz/film/233862-stara-puska/komentare" class="film" rel="hbox[img|stara-puska]">Stará puška</a><br />
+          </div>
+          <div class="clearBoth"></div>
+        </li>
+                      <li class="komentar odd">
+          <div class="image">
+            <img src="https://www.kbxmedia.cz/data/users/30x30x2/sheldon.jpg" alt="Sheldon" title="Sheldon"  width="30" height="30" />          </div>
+          <div class="text">
+                        <a href="https://www.kinobox.cz/uzivatel/12145" class="user">Sheldon</a>:
+                        
+                          <span class="hlas percent_gut">100%</span>
+                        
+            <a href="https://www.kinobox.cz/film/438404-zelena-kniha/komentare" class="film" rel="hbox[img|green-book]">Zelená kniha</a><br />
+          </div>
+          <div class="clearBoth"></div>
+        </li>
+                      <li class="komentar even">
+          <div class="image">
+            <img src="https://www.kbxmedia.cz/data/users/30x30x2/sheldon.jpg" alt="Sheldon" title="Sheldon"  width="30" height="30" />          </div>
+          <div class="text">
+                        <a href="https://www.kinobox.cz/uzivatel/12145" class="user">Sheldon</a>:
+                        
+                          <span class="hlas percent_gut">65%</span>
+                        
+            <a href="https://www.kinobox.cz/film/263536-ironclad/komentare" class="film" rel="hbox[img|ironclad]">Ironclad</a><br />
+          </div>
+          <div class="clearBoth"></div>
+        </li>
+                      <li class="komentar odd">
+          <div class="image">
+            <img src="https://www.kbxmedia.cz/data/users/30x30x2/petrson.jpg" alt="Petrson" title="Petrson"  width="30" height="30" />          </div>
+          <div class="text">
+                        <a href="https://www.kinobox.cz/uzivatel/15097" class="user">Petrson</a>:
+                        
+                          <span class="hlas percent_gut">70%</span>
+                        
+            <a href="https://www.kinobox.cz/film/438451-patrani/komentare" class="film" rel="hbox[img|searching]">Pátrání</a><br />
+          </div>
+          <div class="clearBoth"></div>
+        </li>
+                      <li class="komentar even">
+          <div class="image">
+            <img src="https://www.kbxmedia.cz/data/users/30x30x2/petrson.jpg" alt="Petrson" title="Petrson"  width="30" height="30" />          </div>
+          <div class="text">
+                        <a href="https://www.kinobox.cz/uzivatel/15097" class="user">Petrson</a>:
+                        
+                          <span class="hlas percent_gut">60%</span>
+                        
+            <a href="https://www.kinobox.cz/film/437596-upgrade/komentare" class="film" rel="hbox[img|upgrade]">Upgrade</a><br />
+          </div>
+          <div class="clearBoth"></div>
+        </li>
+                      <li class="komentar odd">
+          <div class="image">
+            <img src="https://www.kbxmedia.cz/data/users/30x30x2/leafroller.jpg" alt="leafroller" title="leafroller"  width="30" height="30" />          </div>
+          <div class="text">
+                        <a href="https://www.kinobox.cz/uzivatel/27661" class="user">leafroller</a>:
+                        
+                          <span class="hlas percent_gut">70%</span>
+                        
+            <a href="https://www.kinobox.cz/film/438122-zrodila-se-hvezda/komentare" class="film" rel="hbox[img|a-star-is-born]">Zrodila se hvězda</a><br />
+          </div>
+          <div class="clearBoth"></div>
+        </li>
+                      <li class="komentar even">
+          <div class="image">
+            <img src="https://www.kbxmedia.cz/data/users/30x30x2/blackhand47xd.jpg" alt="Blackhand47XD" title="Blackhand47XD"  width="30" height="30" />          </div>
+          <div class="text">
+                        <a href="https://www.kinobox.cz/uzivatel/73531" class="user">Blackhand47XD</a>:
+                        
+                          <span class="hlas percent_gut">85%</span>
+                        
+            <a href="https://www.kinobox.cz/film/124952-going-postal/komentare" class="film" rel="hbox[img|going-postal]">Going Postal</a><br />
+          </div>
+          <div class="clearBoth"></div>
+        </li>
+                      <li class="komentar odd">
+          <div class="image">
+            <img src="https://www.kbxmedia.cz/data/users/30x30x2/marie-kolarova.jpg" alt="marie-kolarova" title="marie-kolarova"  width="30" height="30" />          </div>
+          <div class="text">
+                        <a href="https://www.kinobox.cz/uzivatel/22720" class="user">marie-kolarova</a>:
+                        
+                          <span class="hlas percent_gut">80%</span>
+                        
+            <a href="https://www.kinobox.cz/film/436670-az-prijde-valka/komentare" class="film" rel="hbox[img|az-prijde-valka]">Až přijde válka</a><br />
+          </div>
+          <div class="clearBoth"></div>
+        </li>
+          </ul>
+    <div class="clearBoth"></div>
+  </div>
+</div>      
+    </div>
+
+    <hr class="cleaner" />
+  </section>
+
+  <div class="box banner_flex" style="margin: 12px auto 24px; width: 988px; min-height: 66px">
+    <div id="kbxbanner_full_988x66_homepage" width="" height=""><script type="text/javascript">KBX.addBanner('full_988x66_homepage', 'kbxbanner_full_988x66_homepage', 1);</script>
+</div></div>
+  <section id="hp-section7">
+    <div class="lcol">
+      
+      <div class="box caption video_listing white">
+  <h3 class="zahlavi"><a href="https://www.kinobox.cz/videa">Nejnovější videa</a></h3>
+  <div class="content">
+          <div class="video">
+        <a href="https://www.kinobox.cz/video/16382-body-at-brighton-rock-trailer" title="Body at Brighton Rock: Trailer">
+          <img src="https://www.kbxmedia.cz/data/video/242x176x1/body-at-brighton-rock-trailer.jpg" alt="Body at Brighton Rock: Trailer" width="190" height="138" />
+                      <div class="length">2:21</div>
+                            </a>
+        <a href="https://www.kinobox.cz/video/16382-body-at-brighton-rock-trailer" title="Body at Brighton Rock: Trailer" class="title">Body at Brighton Rock: Trailer</a>
+      </div>
+                <div class="video">
+        <a href="https://www.kinobox.cz/video/16381-five-feet-apart-2019-trailer" title="Five Feet Apart (2019): Trailer">
+          <img src="https://www.kbxmedia.cz/data/video/242x176x1/five-feet-apart-2019-trailer.jpg" alt="Five Feet Apart (2019): Trailer" width="190" height="138" />
+                      <div class="length">2:26</div>
+                            </a>
+        <a href="https://www.kinobox.cz/video/16381-five-feet-apart-2019-trailer" title="Five Feet Apart (2019): Trailer" class="title">Five Feet Apart (2019): Trailer</a>
+      </div>
+                <div class="video last">
+        <a href="https://www.kinobox.cz/video/16375-turn-up-charlie-trailer" title="Turn Up Charlie: Trailer">
+          <img src="https://www.kbxmedia.cz/data/video/242x176x1/turn-up-charlie-trailer.jpg" alt="Turn Up Charlie: Trailer" width="190" height="138" />
+                      <div class="length">2:19</div>
+                            </a>
+        <a href="https://www.kinobox.cz/video/16375-turn-up-charlie-trailer" title="Turn Up Charlie: Trailer" class="title">Turn Up Charlie: Trailer</a>
+      </div>
+            <div class="clearBoth"></div>
+                <div class="video">
+        <a href="https://www.kinobox.cz/video/16371-avengers-endgame-trailer-2-verze-s-deadpoolem" title="Avengers: Endgame: Trailer #2 - Verze s Deadpoolem">
+          <img src="https://www.kbxmedia.cz/data/video/242x176x1/avengers-endgame-trailer-2-verze-s-deadpoolem.jpg" alt="Avengers: Endgame: Trailer #2 - Verze s Deadpoolem" width="190" height="138" />
+                      <div class="length">2:27</div>
+                            </a>
+        <a href="https://www.kinobox.cz/video/16371-avengers-endgame-trailer-2-verze-s-deadpoolem" title="Avengers: Endgame: Trailer #2 - Verze s Deadpoolem" class="title">Avengers: Endgame: Trailer #2 - Verze s Deadpoolem</a>
+      </div>
+                <div class="video">
+        <a href="https://www.kinobox.cz/video/16370-thugs-of-hindostan-trailer" title="Thugs Of Hindostan: Trailer">
+          <img src="https://www.kbxmedia.cz/data/video/242x176x1/thugs-of-hindostan-trailer.jpg" alt="Thugs Of Hindostan: Trailer" width="190" height="138" />
+                      <div class="length">3:38</div>
+                            </a>
+        <a href="https://www.kinobox.cz/video/16370-thugs-of-hindostan-trailer" title="Thugs Of Hindostan: Trailer" class="title">Thugs Of Hindostan: Trailer</a>
+      </div>
+                <div class="video last">
+        <a href="https://www.kinobox.cz/video/16366-the-head-hunter-trailer" title="The Head Hunter: Trailer">
+          <img src="https://www.kbxmedia.cz/data/video/242x176x1/the-head-hunter-trailer.jpg" alt="The Head Hunter: Trailer" width="190" height="138" />
+                      <div class="length">1:51</div>
+                            </a>
+        <a href="https://www.kinobox.cz/video/16366-the-head-hunter-trailer" title="The Head Hunter: Trailer" class="title">The Head Hunter: Trailer</a>
+      </div>
+            <div class="clearBoth"></div>
+              <div class="clearBoth"></div>
+  </div>
+</div>
+    </div>
+
+    <div class="rcol">
+      
+      <div id="narozeniny_box" class="box caption dark">
+  <h3 class="zahlavi light"><a href="https://www.kinobox.cz/vyroci">Narozeniny</a></h3>
+  <div class="content">
+          <div class="image fl">
+        <a href="https://www.kinobox.cz/osoba/22616-bruce-willis">
+          <img src="https://www.kbxmedia.cz/data/osobnosti/170x250x1/bruce-willis.jpg" alt="Bruce Willis" title="Bruce Willis"  width="170" height="250" /></a>
+      </div>
+        <div class="fl">
+              <div class="osoba">
+          <a href="https://www.kinobox.cz/osoba/22616-bruce-willis" rel="hbox[img|bruce-willis]">Bruce Willis</a>
+        </div>
+              <div class="osoba">
+          <a href="https://www.kinobox.cz/osoba/21898-simona-stasova" rel="hbox[img|simona-stasova]">Simona Stašová</a>
+        </div>
+              <div class="osoba">
+          <a href="https://www.kinobox.cz/osoba/18397-glenn-close" rel="hbox[img|glenn-close]">Glenn Close</a>
+        </div>
+              <div class="osoba">
+          <a href="https://www.kinobox.cz/osoba/910482-nicholas-stoller" rel="hbox[img|nicholas-stoller]">Nicholas Stoller</a>
+        </div>
+              <div class="osoba">
+          <a href="https://www.kinobox.cz/osoba/58575-jake-weber" rel="hbox[img|jake-weber]">Jake Weber</a>
+        </div>
+              <div class="osoba">
+          <a href="https://www.kinobox.cz/osoba/945064-jorma-taccone" rel="hbox[img|jorma-taccone]">Jorma Taccone</a>
+        </div>
+              <div class="osoba">
+          <a href="https://www.kinobox.cz/osoba/957810-josie-loren" rel="hbox[img|josie-loren]">Josie Loren</a>
+        </div>
+              <div class="osoba">
+          <a href="https://www.kinobox.cz/osoba/17815-ursula-andress" rel="hbox[img|ursula-andress]">Ursula Andress</a>
+        </div>
+              <div class="osoba">
+          <a href="https://www.kinobox.cz/osoba/19876-josef-klima" rel="hbox[img|josef-klima]">Josef Klíma</a>
+        </div>
+            <a class="dots" href="https://www.kinobox.cz/vyroci">. . .</a>
+    </div>
+    <div class="clearBoth"></div>
+  </div>
+</div>      
+      <div id="odkazy_box" class="box caption">
+  <h3 class="zahlavi light"><a href="http://www.zafilmem.cz" target="_blank">TOP ze světa filmu</a></h3>
+  <h3 class="zahlavi light"><a href="http://www.cfn.cz" target="_blank">České filmové nebe</a></h3>
+  <h3 class="zahlavi light"><a href="https://www.kinobox.cz/ceskylev" target="_blank">Český lev</a></h3>
+  <div class="clearBoth"></div>
+</div>    </div>
+
+    <hr class="cleaner" />
+  </section>
+
+  <div id="endless_wrapper">
+  <div class="twocol twocol2">
+    <div class="lcol">
+      <div class="box magazin endless-articles">
+  
+    <h3>Další nejnovější články:</h3>
+
+    <div class="template" style="display: none">
+      <!--
+        [data|html]
+      -->
+    </div>
+
+    <div class="list">
+      <div class="load_more"></div>
+    </div>
+
+</div>
+
+<script>
+  $(function() {
+    var clanky_ids = [];
+$.each(['#nejnovejsi', '#rubriky'], function(i, selector) {
+  var c = $(selector);
+  if(!c) { throw 'Container '+selector+' not found'; return; }
+  c.find('a').each(function(i, a) {
+    var m;
+    if(m = a.href.match(/\/clanek\/(\d+)\-/i)) {
+      clanky_ids.push(parseInt(m[1]));
+    }
+  });
+});
+        var endless_fis = [], // objekty fixed inside po prave strane
+        next_endless_fi_nr = 0; // nasledujici index
+    var sl = new cute_scrollload({
+      '$c': $('.endless-articles'),
+      'url': 'https://www.kinobox.cz/clanek_ajax/endless/10/%%page%%',
+      'data': {
+        'ignore': clanky_ids.join(',')      },
+      'max_items': 20, // 5x2 (clanky + load_more), tj. 5 davek, tj. 50 clanku
+      'expected_items': 2, // clanky & load_more
+              'add_item_cb': function(item, items_total) {
+          if(typeof(fi_endless_right_box) != 'undefined' && fi_endless_right_box) {
+            if(!endless_fis.length) { // pokud jsme jeste neinicializovali seznam
+              endless_fis.push(fi_endless_right_box);
+            }
+                          if(items_total == 6) {
+                var last_fi = endless_fis[endless_fis.length-1],
+                    new_banner = document.createElement('div');
+                endless_fis.push(last_fi.endWrapperAddNew(new_banner));
+
+                                  var jqbb = new jQBbLoad();
+                  jqbb.make_timeout = 2000;
+                  jqbb.loadBannerTo(new_banner, '19813.2.1.16');
+                              } else if(items_total == 12) {
+                var last_fi = endless_fis[endless_fis.length-1],
+                    new_banner = document.createElement('div');
+                new_banner.setAttribute('id', 'kbxbanner_halfpage_300x600_affiliate');
+                KBX.loadBanners({'halfpage_300x600_affiliate': 'kbxbanner_halfpage_300x600_affiliate'});
+                endless_fis.push(last_fi.endWrapperAddNew(new_banner));
+              }
+                        return;
+          }
+        }
+          });
+    sl.init();
+  })
+</script>    </div>
+    <div class="rcol">
+      <div id="endless_right_box">
+  <div class="box banner_300">
+  <div id="kbxbanner_halfpage_300x600_endless_articles" width="" height=""><script type="text/javascript">KBX.addBanner('halfpage_300x600_endless_articles', 'kbxbanner_halfpage_300x600_endless_articles', 1);</script>
+</div></div></div>
+<script type="text/javascript">
+  var fi_endless_right_box = null;
+  KBX.registerEvent('page.loaded', function() {
+    fi_endless_right_box = new fix_inside('endless_right_box', 'endless_wrapper', 8);
+  });
+</script>    </div>
+    <div class="clearBoth"></div>
+  </div>
+  </div>  
+  <div id="text_box" class="box">
+  <b>Co je to Kinobox.cz?</b> To jsou zprávy, recenze, zahraniční i české filmy, rozhovory. Přinášíme nejnovější trailery, free video zdarma, vybrané on line filmy zdarma. Najdete u nás filmové recenze, novinky v kinech, TV program, Kino program, premiéry 2012. Přehledně je tu světová filmová databáze, česko-slovenská filmová databáze. A co tu ještě najdete? Žebříčky filmů,festivaly, horrory,komedie, erotiku, detektivky, sci-fi, pohádky, celebrity, české celebrity, superstar, filmové hity, kam do kina, vše o DVD, Blue ray.
+  <div class="clearBoth"></div>
+</div>
+ 
+
+</div>              
+            <div id="content_bottom">
+  <div class="fl">Sdílet tuto stránku:</div>
+  <div class="fl">
+    <div class="addthis_toolbox addthis_default_style">
+      <a class="addthis_button_facebook"></a>
+      <a class="addthis_button_twitter"></a>
+      <a class="addthis_button_linkedin"></a>
+      <a class="addthis_button_linkuj"></a>
+      <a class="addthis_button_tumblr"></a>
+      <a class="addthis_button_gmail"></a>
+      <a class="addthis_button_compact"></a>
+    </div>
+    <div class="clearBoth"></div>
+  </div>
+  <div class="fr">
+    <fb:like href="https://www.facebook.com/Kinobox.cz" layout="button_count" show-face="false"></fb:like>
+  </div>
+  <div class="fr"><a href="https://www.facebook.com/Kinobox.cz" target="_new">Kinobox.cz na Facebooku</a>:&nbsp;</div>
+  <div class="clearBoth"></div>
+</div>    
+      
+          <div class="clearBoth"></div>
+          
+                      
+          <div id="skyscraper-r"></div>          
+        </div>
+        
+      </div>
+      
+    </div>
+    <div id="page_bottom">
+    <div id="bottomboard">
+      <div id='bmone2n-19813.1.1.10'>
+  <noscript><div style='display:inline'><a href='https://go.cz.bbelements.com/please/redirect/19813/1/1/10/'><img src='https://go.cz.bbelements.com/please/showit/19813/1/1/10/?typkodu=img' style='border-width:0' alt='' /></a></div></noscript>
+</div>    </div>
+    
+    <div id="footer">
+  
+  <div class="left abs_tl">
+    <ul>
+      <li class="main"><a href="https://www.kinobox.cz/databaze">databáze</a></li>
+      <li><a href="https://www.kinobox.cz/databaze">filmy</a></li>
+      <li><a href="https://www.kinobox.cz/profese">osoby</a></li>
+      <li>&nbsp;</li>
+      <li class="main"><a href="https://www.kinobox.cz/premiery/kino">premiéry</a></li>
+      <li><a href="https://www.kinobox.cz/premiery/kino">Kino</a></li>
+      <li><a href="https://www.kinobox.cz/premiery/dvd_bluray">DVD a BluRay</a></li>
+    </ul>
+  
+    <ul>
+      <li class="main"><a href="https://www.kinobox.cz/clanky">články</a></li>
+      <li><a href="https://www.kinobox.cz/clanky/kino">Kino</a></li>
+      <li><a href="https://www.kinobox.cz/clanky/recenze">Recenze</a></li>
+      <li><a href="https://www.kinobox.cz/clanky/revue">Revue</a></li>
+      <li><a href="https://www.kinobox.cz/clanky/rozhovory">Rozhovory</a></li>
+      <li><a href="https://www.kinobox.cz/clanky/postrehy">Postřehy</a></li>
+      <li><a href="https://www.kinobox.cz/clanky/festivaly">Festivaly</a></li>
+    </ul>
+  
+    <ul>
+      <li><a href="https://www.kinobox.cz/clanky/historie">Historie</a></li>
+      <li><a href="https://www.kinobox.cz/clanky/tema">Téma</a></li>
+      <li>&nbsp;</li>
+      <li class="main"><a href="https://www.kinobox.cz/videa">videa</a></li>
+      <li><a href="https://www.kinobox.cz/videa/premiery">Premiéry</a></li>
+      <li><a href="https://www.kinobox.cz/videa/reportaze">Reportáže</a></li>
+      <li><a href="https://www.kinobox.cz/videa/trailery_upoutavky">Upoutávky</a></li>
+    </ul>
+    
+    <ul>
+      <li><a href="https://www.kinobox.cz/videa/ptame-se">Ptáme se</a></li>
+      <li><a href="https://www.kinobox.cz/videa/z-nataceni">Z natáčení</a></li>
+      <li><a href="https://www.kinobox.cz/videa/o2tv-doporucuje">O2TV</a></li>
+      <li>&nbsp;</li>
+      <li class="main"><a href="https://www.kinobox.cz/zebricky" class="last">žebříčky</a></li>
+      <li><a href="https://www.kinobox.cz/zebricky">Top 1000</a></li>
+      <li><a href="https://www.kinobox.cz/top20kino">UFD top 20</a></li>
+    </ul>
+  </div>
+  
+  <div class="right abs_tr">
+    Filmové recenze, novinky v kinech 2016, filmová databáze, české filmy, trailery, upoutávky a jiná videa, filmové hlášky – Kinobox.cz<br />
+    <br />
+    Technické problémy prosíme hlašte na <a rel="nofollow" style="font-weight: bold;">support<img src="/image/cfn_au.gif" alt="@" />kinobox.cz</a><br />
+    Své podněty a připomínky pište na <a rel="nofollow" style="font-weight: bold;">redakce<img src="/image/cfn_au.gif" alt="@" />kinobox.cz</a><br />
+    <br />
+    <a href="https://www.kinobox.cz/partneri" style="font-weight: bold;">Partneři</a>&nbsp;
+    <a href="https://www.kinobox.cz/tiskove_zpravy" style="font-weight: bold;">Press</a>&nbsp;
+    <a href="http://old.cfn.cz" rel="nofollow">Staré stránky CFN.cz</a>
+    <!-- Podpořte Kinobox.cz - <a href="https://www.kinobox.cz/support/bannery">bannery</a> -->
+    
+  </div>
+  
+  <div class="center">
+    <a href="https://www.kinobox.cz/" class="logo"><img src="/img/kinobox_logo_gr_b.png" width="200" height="65" alt="Kinobox.cz" /></a><br />
+    Kinobox.cz &copy; 2018-2019 KINOBOX, s.r.o.<br />
+    <div class="copyright">Užití obsahu včetně převzetí, šíření či zpřístupňování <br />
+    materiálů a fotografií je bez souhlasu KINOBOX zakázáno.</div>
+    <div class="copyright"><a href="https://www.kinobox.cz/vseobecne-podminky">Všeobecné podmínky serveru Kinobox.cz</a></div>
+    <div class="copyright"><a href="https://www.kinobox.cz/zasady-ochrany-osobnich-udaju">Zásady ochrany osobních údajů</a></div>
+  </div>
+
+  <img src="https://toplist.cz/count.asp?id=114168&amp;logo=2" border="0" alt="TOPlist" width="1" height="1" />
+</div>
+<div id="left_tooltip" class="tooltip" style="display: none;"><div class="tip"></div><div class="description"></div></div>
+<div id="right_tooltip" class="tooltip left" style="display: none;"><div class="tip"></div><div class="description"></div></div>
+<div id="hbox" class="tooltip" style="display: none;"><div class="tip"></div><div class="body"><div class="loader"></div><div class="content"></div></div></div>
+<div id="ttip" class="tooltip" style="display: none;"><div class="tip"></div><div class="body"><div class="loader"></div><div class="content"></div></div></div>
+<div id="imgenlarge" style="display: none;"></div>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-7298261-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  <script type="text/javascript" src="/js/awstats.js"></script>
+  <noscript><img src="/js/awstats.js?nojs=y" height="0" width="0" border="0" alt="" style="display: none" /></noscript>
+  <div id="fb-root"></div>
+  <script type="text/javascript">
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); 
+    js.id = id;
+    js.src = "//connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v2.8&appId=208689769190391";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+    return t;
+  }(document, "script", "twitter-wjs"));
+
+    var addthis_share = {url: 'https://www.kinobox.cz/',title: 'Kinobox.cz',site_name: 'Kinobox.cz',description: 'Kinobox.cz - Filmové recenze, novinky v kinech, české filmy',image: 'https://www.kinobox.cz/img/kinobox-share.jpg',type: 'website'}    
+    KBX.asyncLoadScript('https://apis.google.com/js/plusone.js');
+    KBX.asyncLoadScript('https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e4a909e6942625e');
+  </script>
+  <script src="https://apis.google.com/js/platform.js" async defer>
+    {lang: 'cs'}
+  </script>
+    
+    <hr />
+<div id="partners">
+  <h4 class="tac">Partneři:</h4>
+  <div class="tac">
+    <a href="http://horory-filmy.cz/" target="_blank" title="Horory seznam">Horory</a>&nbsp;
+    <a href="http://www.dzunglertenek.cz" target="_blank" title="Džungle rtěnek">Džungle rtěnek</a>&nbsp;
+    <a href="http://www.faktorstrachu.cz/" target="_blank" title="Faktor strachu">Faktor strachu</a>&nbsp;
+    <a href="http://www.zakulturou.cz" target="_blank" title="kultura,kulturní akce">Kulturní akce</a>
+  </div>
+</div>
+        
+                      <script type="text/javascript">
+        var sh = new share({
+           url: 'https://www.kinobox.cz/titulka',
+           ids: {'fbbottomshare': '','fbbottomlogin': ''}
+         });
+      </script>
+            
+        <script type='text/javascript' charset='utf-8' src='https://go.cz.bbelements.com/bb/bb_one2n.js'></script>
+      <script type='text/javascript'>/* <![CDATA[ */ 
+    bmone2n.addPosition('19813.1.1.9','');    bmone2n.addPosition('19813.1.1.14','');
+    bmone2n.addPosition('19813.1.1.15','');
+    bmone2n.addPosition('19813.2.1.15','');
+    bmone2n.addPosition('19813.2.1.16','');
+    bmone2n.addPosition('19813.1.1.10','');
+    bmone2n.getAd('go.cz.bbelements.com','',''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'utf-8');
+    /* ]]> */</script>
+    <div id='bmone2t-19813.1.1.9' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('19813.1.1.9'); /* ]]> */</script></div>    <div id='bmone2t-19813.1.1.14' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('19813.1.1.14'); /* ]]> */</script></div>
+    <div id='bmone2t-19813.1.1.15' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('19813.1.1.15'); /* ]]> */</script></div>
+    <div id='bmone2t-19813.2.1.15' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('19813.2.1.15'); /* ]]> */</script></div>
+    <div id='bmone2t-19813.2.1.16' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('19813.2.1.16'); /* ]]> */</script></div>
+    <div id='bmone2t-19813.1.1.10' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('19813.1.1.10'); /* ]]> */</script></div>
+        <script type="text/javascript">KBX.showHighlight('header_banner');</script>
+    <script type='text/javascript'>/* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */</script>
+      
+              <script type="text/javascript">
+        <!--//--><![CDATA[//><!--
+        var pp_gemius_identifier = '.R2a0SNLNyhr18e3Hv0aLHYYnFmZM9h3cwFS8d9uVof.47';
+        // lines below shouldn't be edited
+        function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+        gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+        (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0]; gt.setAttribute('async','async'); gt.setAttribute('defer','defer');
+        gt.src='https://spir.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+        //--><!]]>
+        </script>
+              <script type="text/javascript">KBX.fireEvent('page.loaded');</script>
+  </div>
+  <div id="upanel" style="display: none">
+    <div class="controls">
+      <div class="button toggle"><img src="/img/upanel_expand.png" width="40" height="160" /></div>
+            <div class="umlist"></div>
+    </div>
+    <div class="body">
+      <div class="contents">Poslední navštívené karty:
+        <div class="items"><span class="empty">Zatím jste nenavštívili žádné karty.</span></div>
+      </div>
+    </div>
+    <div class="clearBoth"></div>
+  </div>
+  <script type="text/javascript">
+    $(function() {
+      var up = new upanel(); up.init(0,null);       
+      var fi1 = new fix_inside('skyscraper-r', 'inner_wrapper', 8, true);
+      var fi2 = new fix_inside('skyscraper-l', 'inner_wrapper', 8, true);
+    });
+  </script>
+  </body>
+
+</html>
